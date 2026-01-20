@@ -1,0 +1,7290 @@
+{
+  "params": {
+    "R_km": 3.0,
+    "capacity": 150,
+    "N": 1000,
+    "num_bs": 46,
+    "lat0": 41.248134676,
+    "lon0": 69.256287722
+  },
+  "bs": [
+    {
+      "id": 0,
+      "Lat": 41.322813,
+      "Lon": 69.3743,
+      "load": 52
+    },
+    {
+      "id": 1,
+      "Lat": 41.279181,
+      "Lon": 69.246329,
+      "load": 52
+    },
+    {
+      "id": 2,
+      "Lat": 41.238736,
+      "Lon": 69.3276,
+      "load": 49
+    },
+    {
+      "id": 3,
+      "Lat": 41.172791,
+      "Lon": 69.318281,
+      "load": 49
+    },
+    {
+      "id": 4,
+      "Lat": 41.218903,
+      "Lon": 69.401184,
+      "load": 48
+    },
+    {
+      "id": 5,
+      "Lat": 41.180536,
+      "Lon": 69.083439,
+      "load": 48
+    },
+    {
+      "id": 6,
+      "Lat": 41.222366,
+      "Lon": 69.195039,
+      "load": 46
+    },
+    {
+      "id": 7,
+      "Lat": 41.171394,
+      "Lon": 69.171863,
+      "load": 44
+    },
+    {
+      "id": 8,
+      "Lat": 41.269504,
+      "Lon": 69.38714,
+      "load": 43
+    },
+    {
+      "id": 9,
+      "Lat": 41.281797,
+      "Lon": 69.191719,
+      "load": 41
+    },
+    {
+      "id": 10,
+      "Lat": 41.26045,
+      "Lon": 69.087284,
+      "load": 41
+    },
+    {
+      "id": 11,
+      "Lat": 41.169942,
+      "Lon": 69.414177,
+      "load": 41
+    },
+    {
+      "id": 12,
+      "Lat": 41.320667,
+      "Lon": 69.092661,
+      "load": 36
+    },
+    {
+      "id": 13,
+      "Lat": 41.323973,
+      "Lon": 69.276528,
+      "load": 36
+    },
+    {
+      "id": 14,
+      "Lat": 41.220229,
+      "Lon": 69.253762,
+      "load": 35
+    },
+    {
+      "id": 15,
+      "Lat": 41.331701,
+      "Lon": 69.168941,
+      "load": 31
+    },
+    {
+      "id": 16,
+      "Lat": 41.223509,
+      "Lon": 69.13834,
+      "load": 31
+    },
+    {
+      "id": 17,
+      "Lat": 41.302372,
+      "Lon": 69.322137,
+      "load": 28
+    },
+    {
+      "id": 18,
+      "Lat": 41.308747,
+      "Lon": 69.433933,
+      "load": 25
+    },
+    {
+      "id": 19,
+      "Lat": 41.284559,
+      "Lon": 69.139856,
+      "load": 23
+    },
+    {
+      "id": 20,
+      "Lat": 41.178624,
+      "Lon": 69.23446,
+      "load": 23
+    },
+    {
+      "id": 21,
+      "Lat": 41.328315,
+      "Lon": 69.233896,
+      "load": 17
+    },
+    {
+      "id": 22,
+      "Lat": 41.196712,
+      "Lon": 69.360218,
+      "load": 17
+    },
+    {
+      "id": 23,
+      "Lat": 41.250159,
+      "Lon": 69.439729,
+      "load": 17
+    },
+    {
+      "id": 24,
+      "Lat": 41.178036,
+      "Lon": 69.123395,
+      "load": 15
+    },
+    {
+      "id": 25,
+      "Lat": 41.220309,
+      "Lon": 69.066942,
+      "load": 14
+    },
+    {
+      "id": 26,
+      "Lat": 41.261274,
+      "Lon": 69.284586,
+      "load": 11
+    },
+    {
+      "id": 27,
+      "Lat": 41.342747,
+      "Lon": 69.337343,
+      "load": 10
+    },
+    {
+      "id": 28,
+      "Lat": 41.205595,
+      "Lon": 69.304274,
+      "load": 9
+    },
+    {
+      "id": 29,
+      "Lat": 41.258409,
+      "Lon": 69.352714,
+      "load": 8
+    },
+    {
+      "id": 30,
+      "Lat": 41.193864,
+      "Lon": 69.449015,
+      "load": 7
+    },
+    {
+      "id": 31,
+      "Lat": 41.3407,
+      "Lon": 69.418974,
+      "load": 7
+    },
+    {
+      "id": 32,
+      "Lat": 41.150709,
+      "Lon": 69.358448,
+      "load": 7
+    },
+    {
+      "id": 33,
+      "Lat": 41.251147,
+      "Lon": 69.19928,
+      "load": 7
+    },
+    {
+      "id": 34,
+      "Lat": 41.154207,
+      "Lon": 69.271569,
+      "load": 6
+    },
+    {
+      "id": 35,
+      "Lat": 41.34596,
+      "Lon": 69.114633,
+      "load": 6
+    },
+    {
+      "id": 36,
+      "Lat": 41.322156,
+      "Lon": 69.054592,
+      "load": 5
+    },
+    {
+      "id": 37,
+      "Lat": 41.297147,
+      "Lon": 69.074383,
+      "load": 4
+    },
+    {
+      "id": 38,
+      "Lat": 41.158052,
+      "Lon": 69.062412,
+      "load": 2
+    },
+    {
+      "id": 39,
+      "Lat": 41.158707,
+      "Lon": 69.204753,
+      "load": 2
+    },
+    {
+      "id": 40,
+      "Lat": 41.253123,
+      "Lon": 69.16129,
+      "load": 2
+    },
+    {
+      "id": 41,
+      "Lat": 41.349224,
+      "Lon": 69.261646,
+      "load": 1
+    },
+    {
+      "id": 42,
+      "Lat": 41.295643,
+      "Lon": 69.370237,
+      "load": 1
+    },
+    {
+      "id": 43,
+      "Lat": 41.160118,
+      "Lon": 69.449713,
+      "load": 1
+    },
+    {
+      "id": 44,
+      "Lat": 41.277546,
+      "Lon": 69.423561,
+      "load": 1
+    },
+    {
+      "id": 45,
+      "Lat": 41.303422,
+      "Lon": 69.21943,
+      "load": 1
+    }
+  ],
+  "assignment": [
+    {
+      "subscriber_index": 0,
+      "ID": 1,
+      "Lat": 41.172266,
+      "Lon": 69.34662,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 1,
+      "ID": 2,
+      "Lat": 41.194642,
+      "Lon": 69.344588,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 2,
+      "ID": 3,
+      "Lat": 41.167388,
+      "Lon": 69.218769,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 3,
+      "ID": 4,
+      "Lat": 41.168739,
+      "Lon": 69.143064,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 4,
+      "ID": 5,
+      "Lat": 41.155307,
+      "Lon": 69.129535,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 5,
+      "ID": 6,
+      "Lat": 41.290265,
+      "Lon": 69.217808,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 6,
+      "ID": 7,
+      "Lat": 41.267853,
+      "Lon": 69.373772,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 7,
+      "ID": 8,
+      "Lat": 41.301761,
+      "Lon": 69.113864,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 8,
+      "ID": 9,
+      "Lat": 41.21805,
+      "Lon": 69.112192,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 9,
+      "ID": 10,
+      "Lat": 41.170442,
+      "Lon": 69.201971,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 10,
+      "ID": 11,
+      "Lat": 41.319499,
+      "Lon": 69.29149,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 11,
+      "ID": 12,
+      "Lat": 41.295946,
+      "Lon": 69.264491,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 12,
+      "ID": 13,
+      "Lat": 41.16576,
+      "Lon": 69.167271,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 13,
+      "ID": 14,
+      "Lat": 41.273704,
+      "Lon": 69.394683,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 14,
+      "ID": 15,
+      "Lat": 41.188458,
+      "Lon": 69.077822,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 15,
+      "ID": 16,
+      "Lat": 41.19558,
+      "Lon": 69.165755,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 16,
+      "ID": 17,
+      "Lat": 41.321064,
+      "Lon": 69.396593,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 17,
+      "ID": 18,
+      "Lat": 41.205595,
+      "Lon": 69.304274,
+      "bs_id": 28
+    },
+    {
+      "subscriber_index": 18,
+      "ID": 19,
+      "Lat": 41.182531,
+      "Lon": 69.192108,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 19,
+      "ID": 20,
+      "Lat": 41.203396,
+      "Lon": 69.424662,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 20,
+      "ID": 21,
+      "Lat": 41.164281,
+      "Lon": 69.303991,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 21,
+      "ID": 22,
+      "Lat": 41.295825,
+      "Lon": 69.115361,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 22,
+      "ID": 23,
+      "Lat": 41.20399,
+      "Lon": 69.420156,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 23,
+      "ID": 24,
+      "Lat": 41.193923,
+      "Lon": 69.179713,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 24,
+      "ID": 25,
+      "Lat": 41.19581,
+      "Lon": 69.06284,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 25,
+      "ID": 26,
+      "Lat": 41.230233,
+      "Lon": 69.076475,
+      "bs_id": 25
+    },
+    {
+      "subscriber_index": 26,
+      "ID": 27,
+      "Lat": 41.325274,
+      "Lon": 69.175871,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 27,
+      "ID": 28,
+      "Lat": 41.249846,
+      "Lon": 69.403873,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 28,
+      "ID": 29,
+      "Lat": 41.24177,
+      "Lon": 69.155952,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 29,
+      "ID": 30,
+      "Lat": 41.298998,
+      "Lon": 69.265591,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 30,
+      "ID": 31,
+      "Lat": 41.235687,
+      "Lon": 69.283413,
+      "bs_id": 26
+    },
+    {
+      "subscriber_index": 31,
+      "ID": 32,
+      "Lat": 41.193864,
+      "Lon": 69.449015,
+      "bs_id": 30
+    },
+    {
+      "subscriber_index": 32,
+      "ID": 33,
+      "Lat": 41.248703,
+      "Lon": 69.352313,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 33,
+      "ID": 34,
+      "Lat": 41.180568,
+      "Lon": 69.113993,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 34,
+      "ID": 35,
+      "Lat": 41.269282,
+      "Lon": 69.203907,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 35,
+      "ID": 36,
+      "Lat": 41.349224,
+      "Lon": 69.261646,
+      "bs_id": 41
+    },
+    {
+      "subscriber_index": 36,
+      "ID": 37,
+      "Lat": 41.322156,
+      "Lon": 69.054592,
+      "bs_id": 36
+    },
+    {
+      "subscriber_index": 37,
+      "ID": 38,
+      "Lat": 41.286342,
+      "Lon": 69.264788,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 38,
+      "ID": 39,
+      "Lat": 41.30372,
+      "Lon": 69.18607,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 39,
+      "ID": 40,
+      "Lat": 41.236953,
+      "Lon": 69.231489,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 40,
+      "ID": 41,
+      "Lat": 41.344378,
+      "Lon": 69.354785,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 41,
+      "ID": 42,
+      "Lat": 41.332526,
+      "Lon": 69.398207,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 42,
+      "ID": 43,
+      "Lat": 41.318334,
+      "Lon": 69.253065,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 43,
+      "ID": 44,
+      "Lat": 41.180568,
+      "Lon": 69.355004,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 44,
+      "ID": 45,
+      "Lat": 41.3407,
+      "Lon": 69.418974,
+      "bs_id": 31
+    },
+    {
+      "subscriber_index": 45,
+      "ID": 46,
+      "Lat": 41.269789,
+      "Lon": 69.245442,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 46,
+      "ID": 47,
+      "Lat": 41.33582,
+      "Lon": 69.401489,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 47,
+      "ID": 48,
+      "Lat": 41.19789,
+      "Lon": 69.146349,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 48,
+      "ID": 49,
+      "Lat": 41.33939,
+      "Lon": 69.084261,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 49,
+      "ID": 50,
+      "Lat": 41.313205,
+      "Lon": 69.441194,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 50,
+      "ID": 51,
+      "Lat": 41.303167,
+      "Lon": 69.101357,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 51,
+      "ID": 52,
+      "Lat": 41.33937,
+      "Lon": 69.116051,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 52,
+      "ID": 53,
+      "Lat": 41.324487,
+      "Lon": 69.219255,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 53,
+      "ID": 54,
+      "Lat": 41.335783,
+      "Lon": 69.352106,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 54,
+      "ID": 55,
+      "Lat": 41.29259,
+      "Lon": 69.209597,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 55,
+      "ID": 56,
+      "Lat": 41.224684,
+      "Lon": 69.409846,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 56,
+      "ID": 57,
+      "Lat": 41.174201,
+      "Lon": 69.139879,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 57,
+      "ID": 58,
+      "Lat": 41.154207,
+      "Lon": 69.271569,
+      "bs_id": 34
+    },
+    {
+      "subscriber_index": 58,
+      "ID": 59,
+      "Lat": 41.194043,
+      "Lon": 69.078397,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 59,
+      "ID": 60,
+      "Lat": 41.161775,
+      "Lon": 69.07696,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 60,
+      "ID": 61,
+      "Lat": 41.321927,
+      "Lon": 69.078343,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 61,
+      "ID": 62,
+      "Lat": 41.205695,
+      "Lon": 69.244166,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 62,
+      "ID": 63,
+      "Lat": 41.176462,
+      "Lon": 69.424206,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 63,
+      "ID": 64,
+      "Lat": 41.265242,
+      "Lon": 69.147199,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 64,
+      "ID": 65,
+      "Lat": 41.311499,
+      "Lon": 69.126164,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 65,
+      "ID": 66,
+      "Lat": 41.281797,
+      "Lon": 69.191719,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 66,
+      "ID": 67,
+      "Lat": 41.243405,
+      "Lon": 69.34163,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 67,
+      "ID": 68,
+      "Lat": 41.346833,
+      "Lon": 69.089367,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 68,
+      "ID": 69,
+      "Lat": 41.295643,
+      "Lon": 69.370237,
+      "bs_id": 42
+    },
+    {
+      "subscriber_index": 69,
+      "ID": 70,
+      "Lat": 41.199731,
+      "Lon": 69.126084,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 70,
+      "ID": 71,
+      "Lat": 41.178036,
+      "Lon": 69.123395,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 71,
+      "ID": 72,
+      "Lat": 41.199961,
+      "Lon": 69.419306,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 72,
+      "ID": 73,
+      "Lat": 41.311604,
+      "Lon": 69.392387,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 73,
+      "ID": 74,
+      "Lat": 41.160118,
+      "Lon": 69.449713,
+      "bs_id": 43
+    },
+    {
+      "subscriber_index": 74,
+      "ID": 75,
+      "Lat": 41.343799,
+      "Lon": 69.420547,
+      "bs_id": 31
+    },
+    {
+      "subscriber_index": 75,
+      "ID": 76,
+      "Lat": 41.183262,
+      "Lon": 69.244256,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 76,
+      "ID": 77,
+      "Lat": 41.32293,
+      "Lon": 69.410977,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 77,
+      "ID": 78,
+      "Lat": 41.225795,
+      "Lon": 69.444124,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 78,
+      "ID": 79,
+      "Lat": 41.335304,
+      "Lon": 69.364052,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 79,
+      "ID": 80,
+      "Lat": 41.234601,
+      "Lon": 69.432927,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 80,
+      "ID": 81,
+      "Lat": 41.282374,
+      "Lon": 69.244669,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 81,
+      "ID": 82,
+      "Lat": 41.209342,
+      "Lon": 69.437484,
+      "bs_id": 30
+    },
+    {
+      "subscriber_index": 82,
+      "ID": 83,
+      "Lat": 41.297147,
+      "Lon": 69.074383,
+      "bs_id": 37
+    },
+    {
+      "subscriber_index": 83,
+      "ID": 84,
+      "Lat": 41.161433,
+      "Lon": 69.283671,
+      "bs_id": 34
+    },
+    {
+      "subscriber_index": 84,
+      "ID": 85,
+      "Lat": 41.333877,
+      "Lon": 69.26245,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 85,
+      "ID": 86,
+      "Lat": 41.342156,
+      "Lon": 69.082045,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 86,
+      "ID": 87,
+      "Lat": 41.163704,
+      "Lon": 69.077184,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 87,
+      "ID": 88,
+      "Lat": 41.230755,
+      "Lon": 69.426638,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 88,
+      "ID": 89,
+      "Lat": 41.199243,
+      "Lon": 69.287808,
+      "bs_id": 28
+    },
+    {
+      "subscriber_index": 89,
+      "ID": 90,
+      "Lat": 41.166397,
+      "Lon": 69.312949,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 90,
+      "ID": 91,
+      "Lat": 41.254557,
+      "Lon": 69.423883,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 91,
+      "ID": 92,
+      "Lat": 41.283945,
+      "Lon": 69.175674,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 92,
+      "ID": 93,
+      "Lat": 41.229157,
+      "Lon": 69.318676,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 93,
+      "ID": 94,
+      "Lat": 41.241445,
+      "Lon": 69.421607,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 94,
+      "ID": 95,
+      "Lat": 41.151863,
+      "Lon": 69.298464,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 95,
+      "ID": 96,
+      "Lat": 41.349219,
+      "Lon": 69.079304,
+      "bs_id": 35
+    },
+    {
+      "subscriber_index": 96,
+      "ID": 97,
+      "Lat": 41.251177,
+      "Lon": 69.102983,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 97,
+      "ID": 98,
+      "Lat": 41.326173,
+      "Lon": 69.401708,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 98,
+      "ID": 99,
+      "Lat": 41.206997,
+      "Lon": 69.225274,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 99,
+      "ID": 100,
+      "Lat": 41.290708,
+      "Lon": 69.294671,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 100,
+      "ID": 101,
+      "Lat": 41.255788,
+      "Lon": 69.317145,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 101,
+      "ID": 102,
+      "Lat": 41.209876,
+      "Lon": 69.315355,
+      "bs_id": 28
+    },
+    {
+      "subscriber_index": 102,
+      "ID": 103,
+      "Lat": 41.202893,
+      "Lon": 69.405885,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 103,
+      "ID": 104,
+      "Lat": 41.18109,
+      "Lon": 69.162703,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 104,
+      "ID": 105,
+      "Lat": 41.293522,
+      "Lon": 69.131439,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 105,
+      "ID": 106,
+      "Lat": 41.320583,
+      "Lon": 69.252164,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 106,
+      "ID": 107,
+      "Lat": 41.331067,
+      "Lon": 69.388441,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 107,
+      "ID": 108,
+      "Lat": 41.276857,
+      "Lon": 69.381739,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 108,
+      "ID": 109,
+      "Lat": 41.150709,
+      "Lon": 69.358448,
+      "bs_id": 32
+    },
+    {
+      "subscriber_index": 109,
+      "ID": 110,
+      "Lat": 41.34596,
+      "Lon": 69.114633,
+      "bs_id": 35
+    },
+    {
+      "subscriber_index": 110,
+      "ID": 111,
+      "Lat": 41.260336,
+      "Lon": 69.221075,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 111,
+      "ID": 112,
+      "Lat": 41.172375,
+      "Lon": 69.42802,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 112,
+      "ID": 113,
+      "Lat": 41.259118,
+      "Lon": 69.383838,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 113,
+      "ID": 114,
+      "Lat": 41.260505,
+      "Lon": 69.221915,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 114,
+      "ID": 115,
+      "Lat": 41.211652,
+      "Lon": 69.409593,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 115,
+      "ID": 116,
+      "Lat": 41.329785,
+      "Lon": 69.134031,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 116,
+      "ID": 117,
+      "Lat": 41.283387,
+      "Lon": 69.191471,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 117,
+      "ID": 118,
+      "Lat": 41.326827,
+      "Lon": 69.212551,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 118,
+      "ID": 119,
+      "Lat": 41.299896,
+      "Lon": 69.420306,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 119,
+      "ID": 120,
+      "Lat": 41.322921,
+      "Lon": 69.440482,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 120,
+      "ID": 121,
+      "Lat": 41.326283,
+      "Lon": 69.059915,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 121,
+      "ID": 122,
+      "Lat": 41.306477,
+      "Lon": 69.214685,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 122,
+      "ID": 123,
+      "Lat": 41.322813,
+      "Lon": 69.3743,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 123,
+      "ID": 124,
+      "Lat": 41.18184,
+      "Lon": 69.330511,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 124,
+      "ID": 125,
+      "Lat": 41.324433,
+      "Lon": 69.393437,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 125,
+      "ID": 126,
+      "Lat": 41.189915,
+      "Lon": 69.417381,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 126,
+      "ID": 127,
+      "Lat": 41.211038,
+      "Lon": 69.368138,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 127,
+      "ID": 128,
+      "Lat": 41.194585,
+      "Lon": 69.314013,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 128,
+      "ID": 129,
+      "Lat": 41.215652,
+      "Lon": 69.395741,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 129,
+      "ID": 130,
+      "Lat": 41.220229,
+      "Lon": 69.253762,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 130,
+      "ID": 131,
+      "Lat": 41.21623,
+      "Lon": 69.06104,
+      "bs_id": 25
+    },
+    {
+      "subscriber_index": 131,
+      "ID": 132,
+      "Lat": 41.185714,
+      "Lon": 69.435014,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 132,
+      "ID": 133,
+      "Lat": 41.157651,
+      "Lon": 69.288629,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 133,
+      "ID": 134,
+      "Lat": 41.295709,
+      "Lon": 69.175471,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 134,
+      "ID": 135,
+      "Lat": 41.346847,
+      "Lon": 69.096258,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 135,
+      "ID": 136,
+      "Lat": 41.188016,
+      "Lon": 69.067755,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 136,
+      "ID": 137,
+      "Lat": 41.150338,
+      "Lon": 69.42023,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 137,
+      "ID": 138,
+      "Lat": 41.287371,
+      "Lon": 69.426105,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 138,
+      "ID": 139,
+      "Lat": 41.222844,
+      "Lon": 69.07799,
+      "bs_id": 25
+    },
+    {
+      "subscriber_index": 139,
+      "ID": 140,
+      "Lat": 41.334154,
+      "Lon": 69.299262,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 140,
+      "ID": 141,
+      "Lat": 41.319603,
+      "Lon": 69.337902,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 141,
+      "ID": 142,
+      "Lat": 41.251425,
+      "Lon": 69.316757,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 142,
+      "ID": 143,
+      "Lat": 41.23048,
+      "Lon": 69.168262,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 143,
+      "ID": 144,
+      "Lat": 41.188368,
+      "Lon": 69.315972,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 144,
+      "ID": 145,
+      "Lat": 41.285464,
+      "Lon": 69.411122,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 145,
+      "ID": 146,
+      "Lat": 41.263821,
+      "Lon": 69.21243,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 146,
+      "ID": 147,
+      "Lat": 41.210775,
+      "Lon": 69.134073,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 147,
+      "ID": 148,
+      "Lat": 41.271332,
+      "Lon": 69.1789,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 148,
+      "ID": 149,
+      "Lat": 41.238432,
+      "Lon": 69.135481,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 149,
+      "ID": 150,
+      "Lat": 41.308747,
+      "Lon": 69.433933,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 150,
+      "ID": 151,
+      "Lat": 41.28177,
+      "Lon": 69.163515,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 151,
+      "ID": 152,
+      "Lat": 41.276588,
+      "Lon": 69.184075,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 152,
+      "ID": 153,
+      "Lat": 41.284559,
+      "Lon": 69.139856,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 153,
+      "ID": 154,
+      "Lat": 41.179471,
+      "Lon": 69.068485,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 154,
+      "ID": 155,
+      "Lat": 41.272255,
+      "Lon": 69.357396,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 155,
+      "ID": 156,
+      "Lat": 41.232888,
+      "Lon": 69.301906,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 156,
+      "ID": 157,
+      "Lat": 41.293669,
+      "Lon": 69.203591,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 157,
+      "ID": 158,
+      "Lat": 41.198797,
+      "Lon": 69.312423,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 158,
+      "ID": 159,
+      "Lat": 41.328532,
+      "Lon": 69.394176,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 159,
+      "ID": 160,
+      "Lat": 41.305684,
+      "Lon": 69.137536,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 160,
+      "ID": 161,
+      "Lat": 41.24291,
+      "Lon": 69.272962,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 161,
+      "ID": 162,
+      "Lat": 41.241292,
+      "Lon": 69.370567,
+      "bs_id": 29
+    },
+    {
+      "subscriber_index": 162,
+      "ID": 163,
+      "Lat": 41.256226,
+      "Lon": 69.27357,
+      "bs_id": 26
+    },
+    {
+      "subscriber_index": 163,
+      "ID": 164,
+      "Lat": 41.340008,
+      "Lon": 69.40657,
+      "bs_id": 31
+    },
+    {
+      "subscriber_index": 164,
+      "ID": 165,
+      "Lat": 41.313001,
+      "Lon": 69.406808,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 165,
+      "ID": 166,
+      "Lat": 41.316114,
+      "Lon": 69.269149,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 166,
+      "ID": 167,
+      "Lat": 41.298731,
+      "Lon": 69.23987,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 167,
+      "ID": 168,
+      "Lat": 41.300355,
+      "Lon": 69.385945,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 168,
+      "ID": 169,
+      "Lat": 41.303163,
+      "Lon": 69.25852,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 169,
+      "ID": 170,
+      "Lat": 41.197849,
+      "Lon": 69.225949,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 170,
+      "ID": 171,
+      "Lat": 41.196899,
+      "Lon": 69.184339,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 171,
+      "ID": 172,
+      "Lat": 41.166116,
+      "Lon": 69.110332,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 172,
+      "ID": 173,
+      "Lat": 41.28879,
+      "Lon": 69.332568,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 173,
+      "ID": 174,
+      "Lat": 41.232974,
+      "Lon": 69.182353,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 174,
+      "ID": 175,
+      "Lat": 41.233155,
+      "Lon": 69.132734,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 175,
+      "ID": 176,
+      "Lat": 41.227895,
+      "Lon": 69.357918,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 176,
+      "ID": 177,
+      "Lat": 41.321346,
+      "Lon": 69.356238,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 177,
+      "ID": 178,
+      "Lat": 41.245396,
+      "Lon": 69.427097,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 178,
+      "ID": 179,
+      "Lat": 41.300695,
+      "Lon": 69.391379,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 179,
+      "ID": 180,
+      "Lat": 41.257644,
+      "Lon": 69.343854,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 180,
+      "ID": 181,
+      "Lat": 41.329562,
+      "Lon": 69.245292,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 181,
+      "ID": 182,
+      "Lat": 41.237167,
+      "Lon": 69.06161,
+      "bs_id": 25
+    },
+    {
+      "subscriber_index": 182,
+      "ID": 183,
+      "Lat": 41.283775,
+      "Lon": 69.369257,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 183,
+      "ID": 184,
+      "Lat": 41.318101,
+      "Lon": 69.417817,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 184,
+      "ID": 185,
+      "Lat": 41.256825,
+      "Lon": 69.412772,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 185,
+      "ID": 186,
+      "Lat": 41.262878,
+      "Lon": 69.060841,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 186,
+      "ID": 187,
+      "Lat": 41.235723,
+      "Lon": 69.396741,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 187,
+      "ID": 188,
+      "Lat": 41.160057,
+      "Lon": 69.201642,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 188,
+      "ID": 189,
+      "Lat": 41.24094,
+      "Lon": 69.185,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 189,
+      "ID": 190,
+      "Lat": 41.205651,
+      "Lon": 69.430482,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 190,
+      "ID": 191,
+      "Lat": 41.200454,
+      "Lon": 69.082762,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 191,
+      "ID": 192,
+      "Lat": 41.299805,
+      "Lon": 69.070834,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 192,
+      "ID": 193,
+      "Lat": 41.194844,
+      "Lon": 69.077447,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 193,
+      "ID": 194,
+      "Lat": 41.158052,
+      "Lon": 69.062412,
+      "bs_id": 38
+    },
+    {
+      "subscriber_index": 194,
+      "ID": 195,
+      "Lat": 41.189872,
+      "Lon": 69.058152,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 195,
+      "ID": 196,
+      "Lat": 41.197709,
+      "Lon": 69.239424,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 196,
+      "ID": 197,
+      "Lat": 41.262794,
+      "Lon": 69.137186,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 197,
+      "ID": 198,
+      "Lat": 41.30338,
+      "Lon": 69.117116,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 198,
+      "ID": 199,
+      "Lat": 41.342747,
+      "Lon": 69.337343,
+      "bs_id": 27
+    },
+    {
+      "subscriber_index": 199,
+      "ID": 200,
+      "Lat": 41.342944,
+      "Lon": 69.093239,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 200,
+      "ID": 201,
+      "Lat": 41.335777,
+      "Lon": 69.280319,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 201,
+      "ID": 202,
+      "Lat": 41.229331,
+      "Lon": 69.336006,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 202,
+      "ID": 203,
+      "Lat": 41.26842,
+      "Lon": 69.382229,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 203,
+      "ID": 204,
+      "Lat": 41.17038,
+      "Lon": 69.358992,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 204,
+      "ID": 205,
+      "Lat": 41.311106,
+      "Lon": 69.368491,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 205,
+      "ID": 206,
+      "Lat": 41.306527,
+      "Lon": 69.188882,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 206,
+      "ID": 207,
+      "Lat": 41.282304,
+      "Lon": 69.077583,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 207,
+      "ID": 208,
+      "Lat": 41.218246,
+      "Lon": 69.38983,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 208,
+      "ID": 209,
+      "Lat": 41.171108,
+      "Lon": 69.434315,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 209,
+      "ID": 210,
+      "Lat": 41.328315,
+      "Lon": 69.233896,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 210,
+      "ID": 211,
+      "Lat": 41.237097,
+      "Lon": 69.343518,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 211,
+      "ID": 212,
+      "Lat": 41.204016,
+      "Lon": 69.37328,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 212,
+      "ID": 213,
+      "Lat": 41.304928,
+      "Lon": 69.23595,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 213,
+      "ID": 214,
+      "Lat": 41.203679,
+      "Lon": 69.390685,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 214,
+      "ID": 215,
+      "Lat": 41.205786,
+      "Lon": 69.230321,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 215,
+      "ID": 216,
+      "Lat": 41.26397,
+      "Lon": 69.317275,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 216,
+      "ID": 217,
+      "Lat": 41.15574,
+      "Lon": 69.390381,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 217,
+      "ID": 218,
+      "Lat": 41.24751,
+      "Lon": 69.19193,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 218,
+      "ID": 219,
+      "Lat": 41.218068,
+      "Lon": 69.402128,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 219,
+      "ID": 220,
+      "Lat": 41.261158,
+      "Lon": 69.256651,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 220,
+      "ID": 221,
+      "Lat": 41.167123,
+      "Lon": 69.33803,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 221,
+      "ID": 222,
+      "Lat": 41.261035,
+      "Lon": 69.14613,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 222,
+      "ID": 223,
+      "Lat": 41.279181,
+      "Lon": 69.246329,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 223,
+      "ID": 224,
+      "Lat": 41.168611,
+      "Lon": 69.138639,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 224,
+      "ID": 225,
+      "Lat": 41.211241,
+      "Lon": 69.282622,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 225,
+      "ID": 226,
+      "Lat": 41.260695,
+      "Lon": 69.187503,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 226,
+      "ID": 227,
+      "Lat": 41.216158,
+      "Lon": 69.331142,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 227,
+      "ID": 228,
+      "Lat": 41.211325,
+      "Lon": 69.142215,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 228,
+      "ID": 229,
+      "Lat": 41.21311,
+      "Lon": 69.347152,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 229,
+      "ID": 230,
+      "Lat": 41.188308,
+      "Lon": 69.345442,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 230,
+      "ID": 231,
+      "Lat": 41.294917,
+      "Lon": 69.440643,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 231,
+      "ID": 232,
+      "Lat": 41.269358,
+      "Lon": 69.442204,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 232,
+      "ID": 233,
+      "Lat": 41.209249,
+      "Lon": 69.194352,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 233,
+      "ID": 234,
+      "Lat": 41.15283,
+      "Lon": 69.263654,
+      "bs_id": 34
+    },
+    {
+      "subscriber_index": 234,
+      "ID": 235,
+      "Lat": 41.159103,
+      "Lon": 69.07181,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 235,
+      "ID": 236,
+      "Lat": 41.289483,
+      "Lon": 69.100512,
+      "bs_id": 37
+    },
+    {
+      "subscriber_index": 236,
+      "ID": 237,
+      "Lat": 41.170518,
+      "Lon": 69.054906,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 237,
+      "ID": 238,
+      "Lat": 41.243879,
+      "Lon": 69.226188,
+      "bs_id": 33
+    },
+    {
+      "subscriber_index": 238,
+      "ID": 239,
+      "Lat": 41.3431,
+      "Lon": 69.150991,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 239,
+      "ID": 240,
+      "Lat": 41.172817,
+      "Lon": 69.076137,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 240,
+      "ID": 241,
+      "Lat": 41.164816,
+      "Lon": 69.301778,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 241,
+      "ID": 242,
+      "Lat": 41.180345,
+      "Lon": 69.374457,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 242,
+      "ID": 243,
+      "Lat": 41.167036,
+      "Lon": 69.149276,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 243,
+      "ID": 244,
+      "Lat": 41.302889,
+      "Lon": 69.292527,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 244,
+      "ID": 245,
+      "Lat": 41.195137,
+      "Lon": 69.259029,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 245,
+      "ID": 246,
+      "Lat": 41.331701,
+      "Lon": 69.168941,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 246,
+      "ID": 247,
+      "Lat": 41.348006,
+      "Lon": 69.172152,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 247,
+      "ID": 248,
+      "Lat": 41.162046,
+      "Lon": 69.434044,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 248,
+      "ID": 249,
+      "Lat": 41.339518,
+      "Lon": 69.133115,
+      "bs_id": 35
+    },
+    {
+      "subscriber_index": 249,
+      "ID": 250,
+      "Lat": 41.202929,
+      "Lon": 69.082475,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 250,
+      "ID": 251,
+      "Lat": 41.184763,
+      "Lon": 69.080026,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 251,
+      "ID": 252,
+      "Lat": 41.231704,
+      "Lon": 69.325748,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 252,
+      "ID": 253,
+      "Lat": 41.208252,
+      "Lon": 69.14259,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 253,
+      "ID": 254,
+      "Lat": 41.290598,
+      "Lon": 69.231613,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 254,
+      "ID": 255,
+      "Lat": 41.334782,
+      "Lon": 69.365131,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 255,
+      "ID": 256,
+      "Lat": 41.267958,
+      "Lon": 69.371562,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 256,
+      "ID": 257,
+      "Lat": 41.235028,
+      "Lon": 69.267825,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 257,
+      "ID": 258,
+      "Lat": 41.179798,
+      "Lon": 69.156253,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 258,
+      "ID": 259,
+      "Lat": 41.164282,
+      "Lon": 69.116369,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 259,
+      "ID": 260,
+      "Lat": 41.269009,
+      "Lon": 69.379696,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 260,
+      "ID": 261,
+      "Lat": 41.237831,
+      "Lon": 69.237479,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 261,
+      "ID": 262,
+      "Lat": 41.289947,
+      "Lon": 69.42707,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 262,
+      "ID": 263,
+      "Lat": 41.257996,
+      "Lon": 69.225104,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 263,
+      "ID": 264,
+      "Lat": 41.157972,
+      "Lon": 69.222811,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 264,
+      "ID": 265,
+      "Lat": 41.270743,
+      "Lon": 69.060346,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 265,
+      "ID": 266,
+      "Lat": 41.342382,
+      "Lon": 69.384383,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 266,
+      "ID": 267,
+      "Lat": 41.267425,
+      "Lon": 69.058298,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 267,
+      "ID": 268,
+      "Lat": 41.265249,
+      "Lon": 69.355244,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 268,
+      "ID": 269,
+      "Lat": 41.2441,
+      "Lon": 69.310604,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 269,
+      "ID": 270,
+      "Lat": 41.186298,
+      "Lon": 69.284132,
+      "bs_id": 28
+    },
+    {
+      "subscriber_index": 270,
+      "ID": 271,
+      "Lat": 41.312849,
+      "Lon": 69.437622,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 271,
+      "ID": 272,
+      "Lat": 41.219592,
+      "Lon": 69.183323,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 272,
+      "ID": 273,
+      "Lat": 41.17092,
+      "Lon": 69.11433,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 273,
+      "ID": 274,
+      "Lat": 41.288735,
+      "Lon": 69.165287,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 274,
+      "ID": 275,
+      "Lat": 41.312713,
+      "Lon": 69.270039,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 275,
+      "ID": 276,
+      "Lat": 41.167612,
+      "Lon": 69.15096,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 276,
+      "ID": 277,
+      "Lat": 41.344037,
+      "Lon": 69.21167,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 277,
+      "ID": 278,
+      "Lat": 41.314985,
+      "Lon": 69.05046,
+      "bs_id": 36
+    },
+    {
+      "subscriber_index": 278,
+      "ID": 279,
+      "Lat": 41.242395,
+      "Lon": 69.071682,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 279,
+      "ID": 280,
+      "Lat": 41.222356,
+      "Lon": 69.352577,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 280,
+      "ID": 281,
+      "Lat": 41.238408,
+      "Lon": 69.070645,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 281,
+      "ID": 282,
+      "Lat": 41.259844,
+      "Lon": 69.421069,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 282,
+      "ID": 283,
+      "Lat": 41.326169,
+      "Lon": 69.243885,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 283,
+      "ID": 284,
+      "Lat": 41.344629,
+      "Lon": 69.293549,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 284,
+      "ID": 285,
+      "Lat": 41.291957,
+      "Lon": 69.1743,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 285,
+      "ID": 286,
+      "Lat": 41.26045,
+      "Lon": 69.087284,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 286,
+      "ID": 287,
+      "Lat": 41.24229,
+      "Lon": 69.096986,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 287,
+      "ID": 288,
+      "Lat": 41.249675,
+      "Lon": 69.336641,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 288,
+      "ID": 289,
+      "Lat": 41.291082,
+      "Lon": 69.216196,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 289,
+      "ID": 290,
+      "Lat": 41.346049,
+      "Lon": 69.147492,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 290,
+      "ID": 291,
+      "Lat": 41.178928,
+      "Lon": 69.126244,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 291,
+      "ID": 292,
+      "Lat": 41.251648,
+      "Lon": 69.401731,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 292,
+      "ID": 293,
+      "Lat": 41.205249,
+      "Lon": 69.366002,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 293,
+      "ID": 294,
+      "Lat": 41.217975,
+      "Lon": 69.365087,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 294,
+      "ID": 295,
+      "Lat": 41.31411,
+      "Lon": 69.163136,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 295,
+      "ID": 296,
+      "Lat": 41.317495,
+      "Lon": 69.281969,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 296,
+      "ID": 297,
+      "Lat": 41.247928,
+      "Lon": 69.109438,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 297,
+      "ID": 298,
+      "Lat": 41.246868,
+      "Lon": 69.182976,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 298,
+      "ID": 299,
+      "Lat": 41.225442,
+      "Lon": 69.423141,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 299,
+      "ID": 300,
+      "Lat": 41.346155,
+      "Lon": 69.145522,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 300,
+      "ID": 301,
+      "Lat": 41.196712,
+      "Lon": 69.360218,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 301,
+      "ID": 302,
+      "Lat": 41.213635,
+      "Lon": 69.239191,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 302,
+      "ID": 303,
+      "Lat": 41.227216,
+      "Lon": 69.315476,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 303,
+      "ID": 304,
+      "Lat": 41.346164,
+      "Lon": 69.248131,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 304,
+      "ID": 305,
+      "Lat": 41.175249,
+      "Lon": 69.436141,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 305,
+      "ID": 306,
+      "Lat": 41.32394,
+      "Lon": 69.399676,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 306,
+      "ID": 307,
+      "Lat": 41.169942,
+      "Lon": 69.414177,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 307,
+      "ID": 308,
+      "Lat": 41.294489,
+      "Lon": 69.213991,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 308,
+      "ID": 309,
+      "Lat": 41.343991,
+      "Lon": 69.079931,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 309,
+      "ID": 310,
+      "Lat": 41.217712,
+      "Lon": 69.327082,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 310,
+      "ID": 311,
+      "Lat": 41.166063,
+      "Lon": 69.181426,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 311,
+      "ID": 312,
+      "Lat": 41.226002,
+      "Lon": 69.176664,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 312,
+      "ID": 313,
+      "Lat": 41.324477,
+      "Lon": 69.06436,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 313,
+      "ID": 314,
+      "Lat": 41.196954,
+      "Lon": 69.32376,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 314,
+      "ID": 315,
+      "Lat": 41.349485,
+      "Lon": 69.348707,
+      "bs_id": 27
+    },
+    {
+      "subscriber_index": 315,
+      "ID": 316,
+      "Lat": 41.345668,
+      "Lon": 69.354148,
+      "bs_id": 27
+    },
+    {
+      "subscriber_index": 316,
+      "ID": 317,
+      "Lat": 41.238736,
+      "Lon": 69.3276,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 317,
+      "ID": 318,
+      "Lat": 41.159198,
+      "Lon": 69.368457,
+      "bs_id": 32
+    },
+    {
+      "subscriber_index": 318,
+      "ID": 319,
+      "Lat": 41.221693,
+      "Lon": 69.222275,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 319,
+      "ID": 320,
+      "Lat": 41.256233,
+      "Lon": 69.276371,
+      "bs_id": 26
+    },
+    {
+      "subscriber_index": 320,
+      "ID": 321,
+      "Lat": 41.183997,
+      "Lon": 69.081587,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 321,
+      "ID": 322,
+      "Lat": 41.273942,
+      "Lon": 69.146332,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 322,
+      "ID": 323,
+      "Lat": 41.178624,
+      "Lon": 69.23446,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 323,
+      "ID": 324,
+      "Lat": 41.241914,
+      "Lon": 69.316736,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 324,
+      "ID": 325,
+      "Lat": 41.330242,
+      "Lon": 69.321044,
+      "bs_id": 27
+    },
+    {
+      "subscriber_index": 325,
+      "ID": 326,
+      "Lat": 41.164772,
+      "Lon": 69.428094,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 326,
+      "ID": 327,
+      "Lat": 41.209831,
+      "Lon": 69.434812,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 327,
+      "ID": 328,
+      "Lat": 41.241367,
+      "Lon": 69.170849,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 328,
+      "ID": 329,
+      "Lat": 41.320667,
+      "Lon": 69.092661,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 329,
+      "ID": 330,
+      "Lat": 41.264385,
+      "Lon": 69.279925,
+      "bs_id": 26
+    },
+    {
+      "subscriber_index": 330,
+      "ID": 331,
+      "Lat": 41.154388,
+      "Lon": 69.382015,
+      "bs_id": 32
+    },
+    {
+      "subscriber_index": 331,
+      "ID": 332,
+      "Lat": 41.204896,
+      "Lon": 69.276372,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 332,
+      "ID": 333,
+      "Lat": 41.332123,
+      "Lon": 69.348069,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 333,
+      "ID": 334,
+      "Lat": 41.305148,
+      "Lon": 69.142047,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 334,
+      "ID": 335,
+      "Lat": 41.193801,
+      "Lon": 69.126053,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 335,
+      "ID": 336,
+      "Lat": 41.285553,
+      "Lon": 69.338371,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 336,
+      "ID": 337,
+      "Lat": 41.286171,
+      "Lon": 69.104712,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 337,
+      "ID": 338,
+      "Lat": 41.330681,
+      "Lon": 69.308536,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 338,
+      "ID": 339,
+      "Lat": 41.307722,
+      "Lon": 69.063346,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 339,
+      "ID": 340,
+      "Lat": 41.296472,
+      "Lon": 69.086053,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 340,
+      "ID": 341,
+      "Lat": 41.215344,
+      "Lon": 69.216201,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 341,
+      "ID": 342,
+      "Lat": 41.176432,
+      "Lon": 69.265763,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 342,
+      "ID": 343,
+      "Lat": 41.25617,
+      "Lon": 69.415395,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 343,
+      "ID": 344,
+      "Lat": 41.201394,
+      "Lon": 69.379876,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 344,
+      "ID": 345,
+      "Lat": 41.343477,
+      "Lon": 69.168057,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 345,
+      "ID": 346,
+      "Lat": 41.310847,
+      "Lon": 69.237333,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 346,
+      "ID": 347,
+      "Lat": 41.178151,
+      "Lon": 69.4366,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 347,
+      "ID": 348,
+      "Lat": 41.343454,
+      "Lon": 69.371835,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 348,
+      "ID": 349,
+      "Lat": 41.168061,
+      "Lon": 69.20783,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 349,
+      "ID": 350,
+      "Lat": 41.257314,
+      "Lon": 69.231914,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 350,
+      "ID": 351,
+      "Lat": 41.266912,
+      "Lon": 69.378967,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 351,
+      "ID": 352,
+      "Lat": 41.171669,
+      "Lon": 69.143529,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 352,
+      "ID": 353,
+      "Lat": 41.273909,
+      "Lon": 69.427268,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 353,
+      "ID": 354,
+      "Lat": 41.333051,
+      "Lon": 69.138547,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 354,
+      "ID": 355,
+      "Lat": 41.277081,
+      "Lon": 69.235707,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 355,
+      "ID": 356,
+      "Lat": 41.279848,
+      "Lon": 69.09667,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 356,
+      "ID": 357,
+      "Lat": 41.339252,
+      "Lon": 69.171746,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 357,
+      "ID": 358,
+      "Lat": 41.173224,
+      "Lon": 69.14392,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 358,
+      "ID": 359,
+      "Lat": 41.177133,
+      "Lon": 69.231458,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 359,
+      "ID": 360,
+      "Lat": 41.339876,
+      "Lon": 69.328594,
+      "bs_id": 27
+    },
+    {
+      "subscriber_index": 360,
+      "ID": 361,
+      "Lat": 41.233825,
+      "Lon": 69.346908,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 361,
+      "ID": 362,
+      "Lat": 41.327083,
+      "Lon": 69.311969,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 362,
+      "ID": 363,
+      "Lat": 41.27313,
+      "Lon": 69.425621,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 363,
+      "ID": 364,
+      "Lat": 41.156543,
+      "Lon": 69.198212,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 364,
+      "ID": 365,
+      "Lat": 41.238939,
+      "Lon": 69.144445,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 365,
+      "ID": 366,
+      "Lat": 41.169871,
+      "Lon": 69.324272,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 366,
+      "ID": 367,
+      "Lat": 41.330339,
+      "Lon": 69.307931,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 367,
+      "ID": 368,
+      "Lat": 41.229628,
+      "Lon": 69.125923,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 368,
+      "ID": 369,
+      "Lat": 41.339802,
+      "Lon": 69.379676,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 369,
+      "ID": 370,
+      "Lat": 41.282554,
+      "Lon": 69.306682,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 370,
+      "ID": 371,
+      "Lat": 41.344219,
+      "Lon": 69.070231,
+      "bs_id": 36
+    },
+    {
+      "subscriber_index": 371,
+      "ID": 372,
+      "Lat": 41.198714,
+      "Lon": 69.10037,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 372,
+      "ID": 373,
+      "Lat": 41.191041,
+      "Lon": 69.381927,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 373,
+      "ID": 374,
+      "Lat": 41.191431,
+      "Lon": 69.136381,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 374,
+      "ID": 375,
+      "Lat": 41.215712,
+      "Lon": 69.109022,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 375,
+      "ID": 376,
+      "Lat": 41.150567,
+      "Lon": 69.393362,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 376,
+      "ID": 377,
+      "Lat": 41.347505,
+      "Lon": 69.266086,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 377,
+      "ID": 378,
+      "Lat": 41.171985,
+      "Lon": 69.396579,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 378,
+      "ID": 379,
+      "Lat": 41.152972,
+      "Lon": 69.365994,
+      "bs_id": 32
+    },
+    {
+      "subscriber_index": 379,
+      "ID": 380,
+      "Lat": 41.267771,
+      "Lon": 69.056312,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 380,
+      "ID": 381,
+      "Lat": 41.16048,
+      "Lon": 69.346687,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 381,
+      "ID": 382,
+      "Lat": 41.17273,
+      "Lon": 69.075423,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 382,
+      "ID": 383,
+      "Lat": 41.305603,
+      "Lon": 69.255295,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 383,
+      "ID": 384,
+      "Lat": 41.240401,
+      "Lon": 69.13862,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 384,
+      "ID": 385,
+      "Lat": 41.158673,
+      "Lon": 69.363291,
+      "bs_id": 32
+    },
+    {
+      "subscriber_index": 385,
+      "ID": 386,
+      "Lat": 41.25429,
+      "Lon": 69.233217,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 386,
+      "ID": 387,
+      "Lat": 41.162165,
+      "Lon": 69.241593,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 387,
+      "ID": 388,
+      "Lat": 41.235255,
+      "Lon": 69.093185,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 388,
+      "ID": 389,
+      "Lat": 41.164698,
+      "Lon": 69.082316,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 389,
+      "ID": 390,
+      "Lat": 41.179667,
+      "Lon": 69.100477,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 390,
+      "ID": 391,
+      "Lat": 41.276615,
+      "Lon": 69.269343,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 391,
+      "ID": 392,
+      "Lat": 41.226181,
+      "Lon": 69.288957,
+      "bs_id": 28
+    },
+    {
+      "subscriber_index": 392,
+      "ID": 393,
+      "Lat": 41.240743,
+      "Lon": 69.292171,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 393,
+      "ID": 394,
+      "Lat": 41.308619,
+      "Lon": 69.095766,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 394,
+      "ID": 395,
+      "Lat": 41.280183,
+      "Lon": 69.357585,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 395,
+      "ID": 396,
+      "Lat": 41.236014,
+      "Lon": 69.405236,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 396,
+      "ID": 397,
+      "Lat": 41.217786,
+      "Lon": 69.2314,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 397,
+      "ID": 398,
+      "Lat": 41.295923,
+      "Lon": 69.175019,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 398,
+      "ID": 399,
+      "Lat": 41.283022,
+      "Lon": 69.19972,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 399,
+      "ID": 400,
+      "Lat": 41.287364,
+      "Lon": 69.239707,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 400,
+      "ID": 401,
+      "Lat": 41.316354,
+      "Lon": 69.087292,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 401,
+      "ID": 402,
+      "Lat": 41.298918,
+      "Lon": 69.199059,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 402,
+      "ID": 403,
+      "Lat": 41.261274,
+      "Lon": 69.284586,
+      "bs_id": 26
+    },
+    {
+      "subscriber_index": 403,
+      "ID": 404,
+      "Lat": 41.262337,
+      "Lon": 69.318005,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 404,
+      "ID": 405,
+      "Lat": 41.22072,
+      "Lon": 69.316136,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 405,
+      "ID": 406,
+      "Lat": 41.323618,
+      "Lon": 69.338424,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 406,
+      "ID": 407,
+      "Lat": 41.270082,
+      "Lon": 69.190658,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 407,
+      "ID": 408,
+      "Lat": 41.251483,
+      "Lon": 69.111892,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 408,
+      "ID": 409,
+      "Lat": 41.194849,
+      "Lon": 69.093287,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 409,
+      "ID": 410,
+      "Lat": 41.223512,
+      "Lon": 69.355042,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 410,
+      "ID": 411,
+      "Lat": 41.195232,
+      "Lon": 69.221645,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 411,
+      "ID": 412,
+      "Lat": 41.344909,
+      "Lon": 69.377371,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 412,
+      "ID": 413,
+      "Lat": 41.284995,
+      "Lon": 69.272696,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 413,
+      "ID": 414,
+      "Lat": 41.335817,
+      "Lon": 69.381784,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 414,
+      "ID": 415,
+      "Lat": 41.155791,
+      "Lon": 69.159308,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 415,
+      "ID": 416,
+      "Lat": 41.334308,
+      "Lon": 69.190409,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 416,
+      "ID": 417,
+      "Lat": 41.323973,
+      "Lon": 69.276528,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 417,
+      "ID": 418,
+      "Lat": 41.163917,
+      "Lon": 69.346388,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 418,
+      "ID": 419,
+      "Lat": 41.168352,
+      "Lon": 69.262193,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 419,
+      "ID": 420,
+      "Lat": 41.233966,
+      "Lon": 69.186358,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 420,
+      "ID": 421,
+      "Lat": 41.212327,
+      "Lon": 69.179753,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 421,
+      "ID": 422,
+      "Lat": 41.269245,
+      "Lon": 69.403337,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 422,
+      "ID": 423,
+      "Lat": 41.181482,
+      "Lon": 69.297135,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 423,
+      "ID": 424,
+      "Lat": 41.204421,
+      "Lon": 69.314775,
+      "bs_id": 28
+    },
+    {
+      "subscriber_index": 424,
+      "ID": 425,
+      "Lat": 41.271415,
+      "Lon": 69.215673,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 425,
+      "ID": 426,
+      "Lat": 41.300989,
+      "Lon": 69.095527,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 426,
+      "ID": 427,
+      "Lat": 41.172178,
+      "Lon": 69.321287,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 427,
+      "ID": 428,
+      "Lat": 41.247327,
+      "Lon": 69.316853,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 428,
+      "ID": 429,
+      "Lat": 41.194104,
+      "Lon": 69.443778,
+      "bs_id": 30
+    },
+    {
+      "subscriber_index": 429,
+      "ID": 430,
+      "Lat": 41.151537,
+      "Lon": 69.170568,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 430,
+      "ID": 431,
+      "Lat": 41.30347,
+      "Lon": 69.355664,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 431,
+      "ID": 432,
+      "Lat": 41.215624,
+      "Lon": 69.053092,
+      "bs_id": 25
+    },
+    {
+      "subscriber_index": 432,
+      "ID": 433,
+      "Lat": 41.185139,
+      "Lon": 69.202083,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 433,
+      "ID": 434,
+      "Lat": 41.250052,
+      "Lon": 69.383342,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 434,
+      "ID": 435,
+      "Lat": 41.164415,
+      "Lon": 69.394706,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 435,
+      "ID": 436,
+      "Lat": 41.237244,
+      "Lon": 69.233902,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 436,
+      "ID": 437,
+      "Lat": 41.322422,
+      "Lon": 69.280304,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 437,
+      "ID": 438,
+      "Lat": 41.230885,
+      "Lon": 69.306057,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 438,
+      "ID": 439,
+      "Lat": 41.173035,
+      "Lon": 69.058343,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 439,
+      "ID": 440,
+      "Lat": 41.184375,
+      "Lon": 69.429046,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 440,
+      "ID": 441,
+      "Lat": 41.316405,
+      "Lon": 69.417908,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 441,
+      "ID": 442,
+      "Lat": 41.237342,
+      "Lon": 69.092345,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 442,
+      "ID": 443,
+      "Lat": 41.267774,
+      "Lon": 69.259585,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 443,
+      "ID": 444,
+      "Lat": 41.324105,
+      "Lon": 69.348322,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 444,
+      "ID": 445,
+      "Lat": 41.216614,
+      "Lon": 69.117253,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 445,
+      "ID": 446,
+      "Lat": 41.276645,
+      "Lon": 69.262242,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 446,
+      "ID": 447,
+      "Lat": 41.331185,
+      "Lon": 69.18975,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 447,
+      "ID": 448,
+      "Lat": 41.313007,
+      "Lon": 69.144508,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 448,
+      "ID": 449,
+      "Lat": 41.201194,
+      "Lon": 69.1194,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 449,
+      "ID": 450,
+      "Lat": 41.302043,
+      "Lon": 69.312204,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 450,
+      "ID": 451,
+      "Lat": 41.340258,
+      "Lon": 69.30118,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 451,
+      "ID": 452,
+      "Lat": 41.300889,
+      "Lon": 69.353951,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 452,
+      "ID": 453,
+      "Lat": 41.286227,
+      "Lon": 69.402819,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 453,
+      "ID": 454,
+      "Lat": 41.27706,
+      "Lon": 69.299809,
+      "bs_id": 26
+    },
+    {
+      "subscriber_index": 454,
+      "ID": 455,
+      "Lat": 41.213228,
+      "Lon": 69.225905,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 455,
+      "ID": 456,
+      "Lat": 41.238442,
+      "Lon": 69.171128,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 456,
+      "ID": 457,
+      "Lat": 41.268284,
+      "Lon": 69.190777,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 457,
+      "ID": 458,
+      "Lat": 41.212082,
+      "Lon": 69.230766,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 458,
+      "ID": 459,
+      "Lat": 41.223748,
+      "Lon": 69.164831,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 459,
+      "ID": 460,
+      "Lat": 41.32285,
+      "Lon": 69.392117,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 460,
+      "ID": 461,
+      "Lat": 41.268816,
+      "Lon": 69.203793,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 461,
+      "ID": 462,
+      "Lat": 41.260863,
+      "Lon": 69.366727,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 462,
+      "ID": 463,
+      "Lat": 41.239947,
+      "Lon": 69.373926,
+      "bs_id": 29
+    },
+    {
+      "subscriber_index": 463,
+      "ID": 464,
+      "Lat": 41.187648,
+      "Lon": 69.292002,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 464,
+      "ID": 465,
+      "Lat": 41.180172,
+      "Lon": 69.074749,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 465,
+      "ID": 466,
+      "Lat": 41.312193,
+      "Lon": 69.384951,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 466,
+      "ID": 467,
+      "Lat": 41.25091,
+      "Lon": 69.119024,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 467,
+      "ID": 468,
+      "Lat": 41.291524,
+      "Lon": 69.446394,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 468,
+      "ID": 469,
+      "Lat": 41.25455,
+      "Lon": 69.113498,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 469,
+      "ID": 470,
+      "Lat": 41.333587,
+      "Lon": 69.204967,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 470,
+      "ID": 471,
+      "Lat": 41.28578,
+      "Lon": 69.070946,
+      "bs_id": 37
+    },
+    {
+      "subscriber_index": 471,
+      "ID": 472,
+      "Lat": 41.279461,
+      "Lon": 69.076365,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 472,
+      "ID": 473,
+      "Lat": 41.261593,
+      "Lon": 69.204626,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 473,
+      "ID": 474,
+      "Lat": 41.294747,
+      "Lon": 69.312626,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 474,
+      "ID": 475,
+      "Lat": 41.324656,
+      "Lon": 69.183345,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 475,
+      "ID": 476,
+      "Lat": 41.282722,
+      "Lon": 69.416699,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 476,
+      "ID": 477,
+      "Lat": 41.343539,
+      "Lon": 69.329392,
+      "bs_id": 27
+    },
+    {
+      "subscriber_index": 477,
+      "ID": 478,
+      "Lat": 41.17579,
+      "Lon": 69.333534,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 478,
+      "ID": 479,
+      "Lat": 41.211916,
+      "Lon": 69.200672,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 479,
+      "ID": 480,
+      "Lat": 41.312637,
+      "Lon": 69.318047,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 480,
+      "ID": 481,
+      "Lat": 41.168691,
+      "Lon": 69.318182,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 481,
+      "ID": 482,
+      "Lat": 41.222366,
+      "Lon": 69.195039,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 482,
+      "ID": 483,
+      "Lat": 41.340234,
+      "Lon": 69.186693,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 483,
+      "ID": 484,
+      "Lat": 41.188401,
+      "Lon": 69.449991,
+      "bs_id": 30
+    },
+    {
+      "subscriber_index": 484,
+      "ID": 485,
+      "Lat": 41.165433,
+      "Lon": 69.387771,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 485,
+      "ID": 486,
+      "Lat": 41.251538,
+      "Lon": 69.265908,
+      "bs_id": 26
+    },
+    {
+      "subscriber_index": 486,
+      "ID": 487,
+      "Lat": 41.157549,
+      "Lon": 69.184706,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 487,
+      "ID": 488,
+      "Lat": 41.17621,
+      "Lon": 69.200688,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 488,
+      "ID": 489,
+      "Lat": 41.186169,
+      "Lon": 69.327138,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 489,
+      "ID": 490,
+      "Lat": 41.311809,
+      "Lon": 69.116216,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 490,
+      "ID": 491,
+      "Lat": 41.158738,
+      "Lon": 69.19572,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 491,
+      "ID": 492,
+      "Lat": 41.343918,
+      "Lon": 69.294238,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 492,
+      "ID": 493,
+      "Lat": 41.196801,
+      "Lon": 69.145667,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 493,
+      "ID": 494,
+      "Lat": 41.330795,
+      "Lon": 69.127606,
+      "bs_id": 35
+    },
+    {
+      "subscriber_index": 494,
+      "ID": 495,
+      "Lat": 41.346888,
+      "Lon": 69.234672,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 495,
+      "ID": 496,
+      "Lat": 41.305625,
+      "Lon": 69.251163,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 496,
+      "ID": 497,
+      "Lat": 41.343254,
+      "Lon": 69.376756,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 497,
+      "ID": 498,
+      "Lat": 41.17768,
+      "Lon": 69.150001,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 498,
+      "ID": 499,
+      "Lat": 41.246118,
+      "Lon": 69.198485,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 499,
+      "ID": 500,
+      "Lat": 41.29228,
+      "Lon": 69.256364,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 500,
+      "ID": 501,
+      "Lat": 41.207013,
+      "Lon": 69.355247,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 501,
+      "ID": 502,
+      "Lat": 41.239864,
+      "Lon": 69.255341,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 502,
+      "ID": 503,
+      "Lat": 41.168343,
+      "Lon": 69.414202,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 503,
+      "ID": 504,
+      "Lat": 41.326926,
+      "Lon": 69.422189,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 504,
+      "ID": 505,
+      "Lat": 41.160651,
+      "Lon": 69.250803,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 505,
+      "ID": 506,
+      "Lat": 41.227233,
+      "Lon": 69.082642,
+      "bs_id": 25
+    },
+    {
+      "subscriber_index": 506,
+      "ID": 507,
+      "Lat": 41.155638,
+      "Lon": 69.42233,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 507,
+      "ID": 508,
+      "Lat": 41.217058,
+      "Lon": 69.10842,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 508,
+      "ID": 509,
+      "Lat": 41.207376,
+      "Lon": 69.381905,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 509,
+      "ID": 510,
+      "Lat": 41.301768,
+      "Lon": 69.237644,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 510,
+      "ID": 511,
+      "Lat": 41.15105,
+      "Lon": 69.08169,
+      "bs_id": 38
+    },
+    {
+      "subscriber_index": 511,
+      "ID": 512,
+      "Lat": 41.193131,
+      "Lon": 69.109808,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 512,
+      "ID": 513,
+      "Lat": 41.255554,
+      "Lon": 69.094475,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 513,
+      "ID": 514,
+      "Lat": 41.197528,
+      "Lon": 69.098739,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 514,
+      "ID": 515,
+      "Lat": 41.233965,
+      "Lon": 69.36756,
+      "bs_id": 29
+    },
+    {
+      "subscriber_index": 515,
+      "ID": 516,
+      "Lat": 41.162561,
+      "Lon": 69.384675,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 516,
+      "ID": 517,
+      "Lat": 41.269348,
+      "Lon": 69.056574,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 517,
+      "ID": 518,
+      "Lat": 41.265009,
+      "Lon": 69.337418,
+      "bs_id": 29
+    },
+    {
+      "subscriber_index": 518,
+      "ID": 519,
+      "Lat": 41.235848,
+      "Lon": 69.295924,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 519,
+      "ID": 520,
+      "Lat": 41.264133,
+      "Lon": 69.124926,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 520,
+      "ID": 521,
+      "Lat": 41.167123,
+      "Lon": 69.439862,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 521,
+      "ID": 522,
+      "Lat": 41.340681,
+      "Lon": 69.267633,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 522,
+      "ID": 523,
+      "Lat": 41.26083,
+      "Lon": 69.206181,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 523,
+      "ID": 524,
+      "Lat": 41.158707,
+      "Lon": 69.204753,
+      "bs_id": 39
+    },
+    {
+      "subscriber_index": 524,
+      "ID": 525,
+      "Lat": 41.20073,
+      "Lon": 69.056497,
+      "bs_id": 25
+    },
+    {
+      "subscriber_index": 525,
+      "ID": 526,
+      "Lat": 41.21896,
+      "Lon": 69.343176,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 526,
+      "ID": 527,
+      "Lat": 41.170733,
+      "Lon": 69.282761,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 527,
+      "ID": 528,
+      "Lat": 41.176682,
+      "Lon": 69.19092,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 528,
+      "ID": 529,
+      "Lat": 41.312702,
+      "Lon": 69.120036,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 529,
+      "ID": 530,
+      "Lat": 41.346164,
+      "Lon": 69.241412,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 530,
+      "ID": 531,
+      "Lat": 41.3123,
+      "Lon": 69.07524,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 531,
+      "ID": 532,
+      "Lat": 41.157397,
+      "Lon": 69.130636,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 532,
+      "ID": 533,
+      "Lat": 41.327158,
+      "Lon": 69.176238,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 533,
+      "ID": 534,
+      "Lat": 41.253077,
+      "Lon": 69.445649,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 534,
+      "ID": 535,
+      "Lat": 41.24468,
+      "Lon": 69.064648,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 535,
+      "ID": 536,
+      "Lat": 41.188221,
+      "Lon": 69.19279,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 536,
+      "ID": 537,
+      "Lat": 41.32316,
+      "Lon": 69.18277,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 537,
+      "ID": 538,
+      "Lat": 41.309868,
+      "Lon": 69.224781,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 538,
+      "ID": 539,
+      "Lat": 41.298662,
+      "Lon": 69.407855,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 539,
+      "ID": 540,
+      "Lat": 41.217807,
+      "Lon": 69.124727,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 540,
+      "ID": 541,
+      "Lat": 41.223469,
+      "Lon": 69.368916,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 541,
+      "ID": 542,
+      "Lat": 41.31023,
+      "Lon": 69.340833,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 542,
+      "ID": 543,
+      "Lat": 41.236121,
+      "Lon": 69.448039,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 543,
+      "ID": 544,
+      "Lat": 41.259095,
+      "Lon": 69.178485,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 544,
+      "ID": 545,
+      "Lat": 41.215584,
+      "Lon": 69.168256,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 545,
+      "ID": 546,
+      "Lat": 41.270524,
+      "Lon": 69.220446,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 546,
+      "ID": 547,
+      "Lat": 41.220309,
+      "Lon": 69.066942,
+      "bs_id": 25
+    },
+    {
+      "subscriber_index": 547,
+      "ID": 548,
+      "Lat": 41.27297,
+      "Lon": 69.223976,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 548,
+      "ID": 549,
+      "Lat": 41.346005,
+      "Lon": 69.429162,
+      "bs_id": 31
+    },
+    {
+      "subscriber_index": 549,
+      "ID": 550,
+      "Lat": 41.284237,
+      "Lon": 69.212484,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 550,
+      "ID": 551,
+      "Lat": 41.310219,
+      "Lon": 69.321764,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 551,
+      "ID": 552,
+      "Lat": 41.178556,
+      "Lon": 69.293029,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 552,
+      "ID": 553,
+      "Lat": 41.15696,
+      "Lon": 69.076893,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 553,
+      "ID": 554,
+      "Lat": 41.223266,
+      "Lon": 69.203142,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 554,
+      "ID": 555,
+      "Lat": 41.156477,
+      "Lon": 69.111375,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 555,
+      "ID": 556,
+      "Lat": 41.339765,
+      "Lon": 69.198805,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 556,
+      "ID": 557,
+      "Lat": 41.264784,
+      "Lon": 69.261784,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 557,
+      "ID": 558,
+      "Lat": 41.212877,
+      "Lon": 69.161476,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 558,
+      "ID": 559,
+      "Lat": 41.155183,
+      "Lon": 69.124419,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 559,
+      "ID": 560,
+      "Lat": 41.227397,
+      "Lon": 69.274669,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 560,
+      "ID": 561,
+      "Lat": 41.304993,
+      "Lon": 69.331615,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 561,
+      "ID": 562,
+      "Lat": 41.349273,
+      "Lon": 69.164231,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 562,
+      "ID": 563,
+      "Lat": 41.190036,
+      "Lon": 69.104291,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 563,
+      "ID": 564,
+      "Lat": 41.240409,
+      "Lon": 69.409472,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 564,
+      "ID": 565,
+      "Lat": 41.349452,
+      "Lon": 69.374205,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 565,
+      "ID": 566,
+      "Lat": 41.283568,
+      "Lon": 69.333816,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 566,
+      "ID": 567,
+      "Lat": 41.258434,
+      "Lon": 69.406533,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 567,
+      "ID": 568,
+      "Lat": 41.292362,
+      "Lon": 69.42093,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 568,
+      "ID": 569,
+      "Lat": 41.184818,
+      "Lon": 69.194597,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 569,
+      "ID": 570,
+      "Lat": 41.174272,
+      "Lon": 69.130392,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 570,
+      "ID": 571,
+      "Lat": 41.197347,
+      "Lon": 69.247609,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 571,
+      "ID": 572,
+      "Lat": 41.260804,
+      "Lon": 69.197564,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 572,
+      "ID": 573,
+      "Lat": 41.175954,
+      "Lon": 69.403699,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 573,
+      "ID": 574,
+      "Lat": 41.211858,
+      "Lon": 69.449838,
+      "bs_id": 30
+    },
+    {
+      "subscriber_index": 574,
+      "ID": 575,
+      "Lat": 41.255139,
+      "Lon": 69.357666,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 575,
+      "ID": 576,
+      "Lat": 41.16475,
+      "Lon": 69.438952,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 576,
+      "ID": 577,
+      "Lat": 41.164833,
+      "Lon": 69.236333,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 577,
+      "ID": 578,
+      "Lat": 41.218903,
+      "Lon": 69.401184,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 578,
+      "ID": 579,
+      "Lat": 41.277959,
+      "Lon": 69.122785,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 579,
+      "ID": 580,
+      "Lat": 41.236524,
+      "Lon": 69.414285,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 580,
+      "ID": 581,
+      "Lat": 41.316278,
+      "Lon": 69.257241,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 581,
+      "ID": 582,
+      "Lat": 41.182931,
+      "Lon": 69.179064,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 582,
+      "ID": 583,
+      "Lat": 41.219205,
+      "Lon": 69.426362,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 583,
+      "ID": 584,
+      "Lat": 41.319187,
+      "Lon": 69.150242,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 584,
+      "ID": 585,
+      "Lat": 41.34127,
+      "Lon": 69.15978,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 585,
+      "ID": 586,
+      "Lat": 41.210565,
+      "Lon": 69.263391,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 586,
+      "ID": 587,
+      "Lat": 41.278197,
+      "Lon": 69.286723,
+      "bs_id": 26
+    },
+    {
+      "subscriber_index": 587,
+      "ID": 588,
+      "Lat": 41.180839,
+      "Lon": 69.313493,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 588,
+      "ID": 589,
+      "Lat": 41.217524,
+      "Lon": 69.419572,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 589,
+      "ID": 590,
+      "Lat": 41.315047,
+      "Lon": 69.061349,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 590,
+      "ID": 591,
+      "Lat": 41.339709,
+      "Lon": 69.358409,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 591,
+      "ID": 592,
+      "Lat": 41.280226,
+      "Lon": 69.356784,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 592,
+      "ID": 593,
+      "Lat": 41.273622,
+      "Lon": 69.062114,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 593,
+      "ID": 594,
+      "Lat": 41.259115,
+      "Lon": 69.306763,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 594,
+      "ID": 595,
+      "Lat": 41.246589,
+      "Lon": 69.371875,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 595,
+      "ID": 596,
+      "Lat": 41.209487,
+      "Lon": 69.079189,
+      "bs_id": 25
+    },
+    {
+      "subscriber_index": 596,
+      "ID": 597,
+      "Lat": 41.181616,
+      "Lon": 69.216249,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 597,
+      "ID": 598,
+      "Lat": 41.190805,
+      "Lon": 69.292664,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 598,
+      "ID": 599,
+      "Lat": 41.322297,
+      "Lon": 69.177727,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 599,
+      "ID": 600,
+      "Lat": 41.345075,
+      "Lon": 69.102306,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 600,
+      "ID": 601,
+      "Lat": 41.252996,
+      "Lon": 69.092474,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 601,
+      "ID": 602,
+      "Lat": 41.243295,
+      "Lon": 69.156989,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 602,
+      "ID": 603,
+      "Lat": 41.178176,
+      "Lon": 69.070242,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 603,
+      "ID": 604,
+      "Lat": 41.322833,
+      "Lon": 69.217254,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 604,
+      "ID": 605,
+      "Lat": 41.312696,
+      "Lon": 69.423501,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 605,
+      "ID": 606,
+      "Lat": 41.187967,
+      "Lon": 69.113737,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 606,
+      "ID": 607,
+      "Lat": 41.243363,
+      "Lon": 69.40163,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 607,
+      "ID": 608,
+      "Lat": 41.154635,
+      "Lon": 69.428093,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 608,
+      "ID": 609,
+      "Lat": 41.241446,
+      "Lon": 69.146291,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 609,
+      "ID": 610,
+      "Lat": 41.220579,
+      "Lon": 69.070216,
+      "bs_id": 25
+    },
+    {
+      "subscriber_index": 610,
+      "ID": 611,
+      "Lat": 41.269504,
+      "Lon": 69.38714,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 611,
+      "ID": 612,
+      "Lat": 41.20715,
+      "Lon": 69.053271,
+      "bs_id": 25
+    },
+    {
+      "subscriber_index": 612,
+      "ID": 613,
+      "Lat": 41.236186,
+      "Lon": 69.402982,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 613,
+      "ID": 614,
+      "Lat": 41.302771,
+      "Lon": 69.196375,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 614,
+      "ID": 615,
+      "Lat": 41.160232,
+      "Lon": 69.274727,
+      "bs_id": 34
+    },
+    {
+      "subscriber_index": 615,
+      "ID": 616,
+      "Lat": 41.260645,
+      "Lon": 69.079413,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 616,
+      "ID": 617,
+      "Lat": 41.240071,
+      "Lon": 69.269943,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 617,
+      "ID": 618,
+      "Lat": 41.28608,
+      "Lon": 69.097524,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 618,
+      "ID": 619,
+      "Lat": 41.228781,
+      "Lon": 69.367959,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 619,
+      "ID": 620,
+      "Lat": 41.261566,
+      "Lon": 69.196243,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 620,
+      "ID": 621,
+      "Lat": 41.189812,
+      "Lon": 69.253649,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 621,
+      "ID": 622,
+      "Lat": 41.158051,
+      "Lon": 69.065566,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 622,
+      "ID": 623,
+      "Lat": 41.310793,
+      "Lon": 69.257733,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 623,
+      "ID": 624,
+      "Lat": 41.271252,
+      "Lon": 69.256202,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 624,
+      "ID": 625,
+      "Lat": 41.336274,
+      "Lon": 69.177412,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 625,
+      "ID": 626,
+      "Lat": 41.348123,
+      "Lon": 69.345728,
+      "bs_id": 27
+    },
+    {
+      "subscriber_index": 626,
+      "ID": 627,
+      "Lat": 41.268745,
+      "Lon": 69.252926,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 627,
+      "ID": 628,
+      "Lat": 41.256468,
+      "Lon": 69.333496,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 628,
+      "ID": 629,
+      "Lat": 41.244979,
+      "Lon": 69.056655,
+      "bs_id": 25
+    },
+    {
+      "subscriber_index": 629,
+      "ID": 630,
+      "Lat": 41.284761,
+      "Lon": 69.441959,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 630,
+      "ID": 631,
+      "Lat": 41.211536,
+      "Lon": 69.409507,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 631,
+      "ID": 632,
+      "Lat": 41.155329,
+      "Lon": 69.239836,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 632,
+      "ID": 633,
+      "Lat": 41.306581,
+      "Lon": 69.360465,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 633,
+      "ID": 634,
+      "Lat": 41.195509,
+      "Lon": 69.070542,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 634,
+      "ID": 635,
+      "Lat": 41.184102,
+      "Lon": 69.30161,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 635,
+      "ID": 636,
+      "Lat": 41.304921,
+      "Lon": 69.202076,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 636,
+      "ID": 637,
+      "Lat": 41.156314,
+      "Lon": 69.429282,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 637,
+      "ID": 638,
+      "Lat": 41.188157,
+      "Lon": 69.226415,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 638,
+      "ID": 639,
+      "Lat": 41.180286,
+      "Lon": 69.3262,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 639,
+      "ID": 640,
+      "Lat": 41.250364,
+      "Lon": 69.294591,
+      "bs_id": 26
+    },
+    {
+      "subscriber_index": 640,
+      "ID": 641,
+      "Lat": 41.324564,
+      "Lon": 69.344335,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 641,
+      "ID": 642,
+      "Lat": 41.291155,
+      "Lon": 69.257473,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 642,
+      "ID": 643,
+      "Lat": 41.21501,
+      "Lon": 69.314891,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 643,
+      "ID": 644,
+      "Lat": 41.225365,
+      "Lon": 69.432674,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 644,
+      "ID": 645,
+      "Lat": 41.332425,
+      "Lon": 69.186931,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 645,
+      "ID": 646,
+      "Lat": 41.285174,
+      "Lon": 69.397062,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 646,
+      "ID": 647,
+      "Lat": 41.310731,
+      "Lon": 69.155745,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 647,
+      "ID": 648,
+      "Lat": 41.188453,
+      "Lon": 69.148608,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 648,
+      "ID": 649,
+      "Lat": 41.2097,
+      "Lon": 69.426594,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 649,
+      "ID": 650,
+      "Lat": 41.304235,
+      "Lon": 69.33196,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 650,
+      "ID": 651,
+      "Lat": 41.213408,
+      "Lon": 69.189521,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 651,
+      "ID": 652,
+      "Lat": 41.207558,
+      "Lon": 69.279391,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 652,
+      "ID": 653,
+      "Lat": 41.225939,
+      "Lon": 69.442064,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 653,
+      "ID": 654,
+      "Lat": 41.340922,
+      "Lon": 69.371846,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 654,
+      "ID": 655,
+      "Lat": 41.158413,
+      "Lon": 69.432125,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 655,
+      "ID": 656,
+      "Lat": 41.219273,
+      "Lon": 69.22695,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 656,
+      "ID": 657,
+      "Lat": 41.299468,
+      "Lon": 69.135595,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 657,
+      "ID": 658,
+      "Lat": 41.204227,
+      "Lon": 69.274807,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 658,
+      "ID": 659,
+      "Lat": 41.177455,
+      "Lon": 69.296271,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 659,
+      "ID": 660,
+      "Lat": 41.197856,
+      "Lon": 69.070306,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 660,
+      "ID": 661,
+      "Lat": 41.195134,
+      "Lon": 69.143135,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 661,
+      "ID": 662,
+      "Lat": 41.23266,
+      "Lon": 69.336943,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 662,
+      "ID": 663,
+      "Lat": 41.286238,
+      "Lon": 69.104987,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 663,
+      "ID": 664,
+      "Lat": 41.345582,
+      "Lon": 69.113176,
+      "bs_id": 35
+    },
+    {
+      "subscriber_index": 664,
+      "ID": 665,
+      "Lat": 41.337006,
+      "Lon": 69.40136,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 665,
+      "ID": 666,
+      "Lat": 41.280108,
+      "Lon": 69.352364,
+      "bs_id": 29
+    },
+    {
+      "subscriber_index": 666,
+      "ID": 667,
+      "Lat": 41.214234,
+      "Lon": 69.308359,
+      "bs_id": 28
+    },
+    {
+      "subscriber_index": 667,
+      "ID": 668,
+      "Lat": 41.28046,
+      "Lon": 69.142888,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 668,
+      "ID": 669,
+      "Lat": 41.332646,
+      "Lon": 69.120026,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 669,
+      "ID": 670,
+      "Lat": 41.336785,
+      "Lon": 69.064536,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 670,
+      "ID": 671,
+      "Lat": 41.307592,
+      "Lon": 69.124525,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 671,
+      "ID": 672,
+      "Lat": 41.325349,
+      "Lon": 69.053707,
+      "bs_id": 36
+    },
+    {
+      "subscriber_index": 672,
+      "ID": 673,
+      "Lat": 41.270557,
+      "Lon": 69.421382,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 673,
+      "ID": 674,
+      "Lat": 41.206912,
+      "Lon": 69.44564,
+      "bs_id": 30
+    },
+    {
+      "subscriber_index": 674,
+      "ID": 675,
+      "Lat": 41.254864,
+      "Lon": 69.405704,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 675,
+      "ID": 676,
+      "Lat": 41.320212,
+      "Lon": 69.237208,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 676,
+      "ID": 677,
+      "Lat": 41.311763,
+      "Lon": 69.182274,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 677,
+      "ID": 678,
+      "Lat": 41.279657,
+      "Lon": 69.337439,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 678,
+      "ID": 679,
+      "Lat": 41.297324,
+      "Lon": 69.366307,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 679,
+      "ID": 680,
+      "Lat": 41.28488,
+      "Lon": 69.127265,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 680,
+      "ID": 681,
+      "Lat": 41.321229,
+      "Lon": 69.408817,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 681,
+      "ID": 682,
+      "Lat": 41.253056,
+      "Lon": 69.084695,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 682,
+      "ID": 683,
+      "Lat": 41.169077,
+      "Lon": 69.442674,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 683,
+      "ID": 684,
+      "Lat": 41.21472,
+      "Lon": 69.149219,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 684,
+      "ID": 685,
+      "Lat": 41.226715,
+      "Lon": 69.228694,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 685,
+      "ID": 686,
+      "Lat": 41.340807,
+      "Lon": 69.170778,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 686,
+      "ID": 687,
+      "Lat": 41.152287,
+      "Lon": 69.311473,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 687,
+      "ID": 688,
+      "Lat": 41.162425,
+      "Lon": 69.09729,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 688,
+      "ID": 689,
+      "Lat": 41.181943,
+      "Lon": 69.324429,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 689,
+      "ID": 690,
+      "Lat": 41.288058,
+      "Lon": 69.305485,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 690,
+      "ID": 691,
+      "Lat": 41.223509,
+      "Lon": 69.13834,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 691,
+      "ID": 692,
+      "Lat": 41.245636,
+      "Lon": 69.231991,
+      "bs_id": 33
+    },
+    {
+      "subscriber_index": 692,
+      "ID": 693,
+      "Lat": 41.224725,
+      "Lon": 69.330776,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 693,
+      "ID": 694,
+      "Lat": 41.30147,
+      "Lon": 69.370798,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 694,
+      "ID": 695,
+      "Lat": 41.302372,
+      "Lon": 69.322137,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 695,
+      "ID": 696,
+      "Lat": 41.324627,
+      "Lon": 69.082748,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 696,
+      "ID": 697,
+      "Lat": 41.255635,
+      "Lon": 69.194714,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 697,
+      "ID": 698,
+      "Lat": 41.172442,
+      "Lon": 69.38151,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 698,
+      "ID": 699,
+      "Lat": 41.190431,
+      "Lon": 69.264664,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 699,
+      "ID": 700,
+      "Lat": 41.215624,
+      "Lon": 69.258137,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 700,
+      "ID": 701,
+      "Lat": 41.286059,
+      "Lon": 69.336767,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 701,
+      "ID": 702,
+      "Lat": 41.168188,
+      "Lon": 69.25415,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 702,
+      "ID": 703,
+      "Lat": 41.240686,
+      "Lon": 69.255299,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 703,
+      "ID": 704,
+      "Lat": 41.262782,
+      "Lon": 69.273519,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 704,
+      "ID": 705,
+      "Lat": 41.294656,
+      "Lon": 69.208379,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 705,
+      "ID": 706,
+      "Lat": 41.299161,
+      "Lon": 69.281325,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 706,
+      "ID": 707,
+      "Lat": 41.234739,
+      "Lon": 69.330154,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 707,
+      "ID": 708,
+      "Lat": 41.348825,
+      "Lon": 69.423833,
+      "bs_id": 31
+    },
+    {
+      "subscriber_index": 708,
+      "ID": 709,
+      "Lat": 41.347227,
+      "Lon": 69.238828,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 709,
+      "ID": 710,
+      "Lat": 41.231773,
+      "Lon": 69.357589,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 710,
+      "ID": 711,
+      "Lat": 41.345667,
+      "Lon": 69.308352,
+      "bs_id": 27
+    },
+    {
+      "subscriber_index": 711,
+      "ID": 712,
+      "Lat": 41.224892,
+      "Lon": 69.406533,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 712,
+      "ID": 713,
+      "Lat": 41.323924,
+      "Lon": 69.412707,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 713,
+      "ID": 714,
+      "Lat": 41.16605,
+      "Lon": 69.435658,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 714,
+      "ID": 715,
+      "Lat": 41.176598,
+      "Lon": 69.394115,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 715,
+      "ID": 716,
+      "Lat": 41.185695,
+      "Lon": 69.264903,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 716,
+      "ID": 717,
+      "Lat": 41.175469,
+      "Lon": 69.44149,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 717,
+      "ID": 718,
+      "Lat": 41.301236,
+      "Lon": 69.441396,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 718,
+      "ID": 719,
+      "Lat": 41.2847,
+      "Lon": 69.267778,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 719,
+      "ID": 720,
+      "Lat": 41.225855,
+      "Lon": 69.141866,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 720,
+      "ID": 721,
+      "Lat": 41.219232,
+      "Lon": 69.16026,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 721,
+      "ID": 722,
+      "Lat": 41.156443,
+      "Lon": 69.314079,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 722,
+      "ID": 723,
+      "Lat": 41.303211,
+      "Lon": 69.403503,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 723,
+      "ID": 724,
+      "Lat": 41.198133,
+      "Lon": 69.076916,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 724,
+      "ID": 725,
+      "Lat": 41.156715,
+      "Lon": 69.289114,
+      "bs_id": 34
+    },
+    {
+      "subscriber_index": 725,
+      "ID": 726,
+      "Lat": 41.198947,
+      "Lon": 69.067695,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 726,
+      "ID": 727,
+      "Lat": 41.196868,
+      "Lon": 69.136908,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 727,
+      "ID": 728,
+      "Lat": 41.178027,
+      "Lon": 69.447393,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 728,
+      "ID": 729,
+      "Lat": 41.313157,
+      "Lon": 69.342607,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 729,
+      "ID": 730,
+      "Lat": 41.265495,
+      "Lon": 69.359015,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 730,
+      "ID": 731,
+      "Lat": 41.197381,
+      "Lon": 69.400503,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 731,
+      "ID": 732,
+      "Lat": 41.25425,
+      "Lon": 69.215424,
+      "bs_id": 33
+    },
+    {
+      "subscriber_index": 732,
+      "ID": 733,
+      "Lat": 41.162192,
+      "Lon": 69.429408,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 733,
+      "ID": 734,
+      "Lat": 41.275199,
+      "Lon": 69.22088,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 734,
+      "ID": 735,
+      "Lat": 41.159377,
+      "Lon": 69.187766,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 735,
+      "ID": 736,
+      "Lat": 41.284269,
+      "Lon": 69.364322,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 736,
+      "ID": 737,
+      "Lat": 41.289262,
+      "Lon": 69.213304,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 737,
+      "ID": 738,
+      "Lat": 41.225292,
+      "Lon": 69.351766,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 738,
+      "ID": 739,
+      "Lat": 41.198194,
+      "Lon": 69.140138,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 739,
+      "ID": 740,
+      "Lat": 41.311155,
+      "Lon": 69.415896,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 740,
+      "ID": 741,
+      "Lat": 41.232535,
+      "Lon": 69.216603,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 741,
+      "ID": 742,
+      "Lat": 41.176819,
+      "Lon": 69.147143,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 742,
+      "ID": 743,
+      "Lat": 41.216053,
+      "Lon": 69.081628,
+      "bs_id": 25
+    },
+    {
+      "subscriber_index": 743,
+      "ID": 744,
+      "Lat": 41.319427,
+      "Lon": 69.086986,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 744,
+      "ID": 745,
+      "Lat": 41.160307,
+      "Lon": 69.200867,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 745,
+      "ID": 746,
+      "Lat": 41.270584,
+      "Lon": 69.399448,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 746,
+      "ID": 747,
+      "Lat": 41.31093,
+      "Lon": 69.285033,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 747,
+      "ID": 748,
+      "Lat": 41.193403,
+      "Lon": 69.133556,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 748,
+      "ID": 749,
+      "Lat": 41.210638,
+      "Lon": 69.413598,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 749,
+      "ID": 750,
+      "Lat": 41.337432,
+      "Lon": 69.434831,
+      "bs_id": 31
+    },
+    {
+      "subscriber_index": 750,
+      "ID": 751,
+      "Lat": 41.299376,
+      "Lon": 69.351732,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 751,
+      "ID": 752,
+      "Lat": 41.289125,
+      "Lon": 69.331507,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 752,
+      "ID": 753,
+      "Lat": 41.333025,
+      "Lon": 69.270832,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 753,
+      "ID": 754,
+      "Lat": 41.226132,
+      "Lon": 69.26346,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 754,
+      "ID": 755,
+      "Lat": 41.211684,
+      "Lon": 69.193858,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 755,
+      "ID": 756,
+      "Lat": 41.243201,
+      "Lon": 69.371127,
+      "bs_id": 29
+    },
+    {
+      "subscriber_index": 756,
+      "ID": 757,
+      "Lat": 41.302326,
+      "Lon": 69.178093,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 757,
+      "ID": 758,
+      "Lat": 41.224141,
+      "Lon": 69.215572,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 758,
+      "ID": 759,
+      "Lat": 41.322817,
+      "Lon": 69.346501,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 759,
+      "ID": 760,
+      "Lat": 41.202155,
+      "Lon": 69.423903,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 760,
+      "ID": 761,
+      "Lat": 41.294002,
+      "Lon": 69.168077,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 761,
+      "ID": 762,
+      "Lat": 41.215973,
+      "Lon": 69.201936,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 762,
+      "ID": 763,
+      "Lat": 41.24986,
+      "Lon": 69.311843,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 763,
+      "ID": 764,
+      "Lat": 41.201465,
+      "Lon": 69.378637,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 764,
+      "ID": 765,
+      "Lat": 41.297919,
+      "Lon": 69.234332,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 765,
+      "ID": 766,
+      "Lat": 41.183853,
+      "Lon": 69.338125,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 766,
+      "ID": 767,
+      "Lat": 41.18681,
+      "Lon": 69.405746,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 767,
+      "ID": 768,
+      "Lat": 41.341447,
+      "Lon": 69.259578,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 768,
+      "ID": 769,
+      "Lat": 41.339038,
+      "Lon": 69.317286,
+      "bs_id": 27
+    },
+    {
+      "subscriber_index": 769,
+      "ID": 770,
+      "Lat": 41.232478,
+      "Lon": 69.387018,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 770,
+      "ID": 771,
+      "Lat": 41.163594,
+      "Lon": 69.110412,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 771,
+      "ID": 772,
+      "Lat": 41.251147,
+      "Lon": 69.19928,
+      "bs_id": 33
+    },
+    {
+      "subscriber_index": 772,
+      "ID": 773,
+      "Lat": 41.277546,
+      "Lon": 69.423561,
+      "bs_id": 44
+    },
+    {
+      "subscriber_index": 773,
+      "ID": 774,
+      "Lat": 41.281857,
+      "Lon": 69.056293,
+      "bs_id": 37
+    },
+    {
+      "subscriber_index": 774,
+      "ID": 775,
+      "Lat": 41.260329,
+      "Lon": 69.05474,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 775,
+      "ID": 776,
+      "Lat": 41.294439,
+      "Lon": 69.264295,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 776,
+      "ID": 777,
+      "Lat": 41.153429,
+      "Lon": 69.375263,
+      "bs_id": 32
+    },
+    {
+      "subscriber_index": 777,
+      "ID": 778,
+      "Lat": 41.311234,
+      "Lon": 69.413909,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 778,
+      "ID": 779,
+      "Lat": 41.33361,
+      "Lon": 69.259754,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 779,
+      "ID": 780,
+      "Lat": 41.188386,
+      "Lon": 69.260582,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 780,
+      "ID": 781,
+      "Lat": 41.203465,
+      "Lon": 69.208759,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 781,
+      "ID": 782,
+      "Lat": 41.34186,
+      "Lon": 69.233599,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 782,
+      "ID": 783,
+      "Lat": 41.348047,
+      "Lon": 69.140343,
+      "bs_id": 35
+    },
+    {
+      "subscriber_index": 783,
+      "ID": 784,
+      "Lat": 41.280747,
+      "Lon": 69.393288,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 784,
+      "ID": 785,
+      "Lat": 41.1687,
+      "Lon": 69.201706,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 785,
+      "ID": 786,
+      "Lat": 41.245201,
+      "Lon": 69.304699,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 786,
+      "ID": 787,
+      "Lat": 41.166537,
+      "Lon": 69.388132,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 787,
+      "ID": 788,
+      "Lat": 41.306875,
+      "Lon": 69.276343,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 788,
+      "ID": 789,
+      "Lat": 41.328958,
+      "Lon": 69.417661,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 789,
+      "ID": 790,
+      "Lat": 41.192283,
+      "Lon": 69.397247,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 790,
+      "ID": 791,
+      "Lat": 41.2451,
+      "Lon": 69.068625,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 791,
+      "ID": 792,
+      "Lat": 41.286886,
+      "Lon": 69.162149,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 792,
+      "ID": 793,
+      "Lat": 41.262702,
+      "Lon": 69.063161,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 793,
+      "ID": 794,
+      "Lat": 41.153132,
+      "Lon": 69.132863,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 794,
+      "ID": 795,
+      "Lat": 41.300451,
+      "Lon": 69.335085,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 795,
+      "ID": 796,
+      "Lat": 41.335775,
+      "Lon": 69.169711,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 796,
+      "ID": 797,
+      "Lat": 41.198094,
+      "Lon": 69.38386,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 797,
+      "ID": 798,
+      "Lat": 41.285407,
+      "Lon": 69.266225,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 798,
+      "ID": 799,
+      "Lat": 41.301122,
+      "Lon": 69.10598,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 799,
+      "ID": 800,
+      "Lat": 41.250159,
+      "Lon": 69.439729,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 800,
+      "ID": 801,
+      "Lat": 41.169537,
+      "Lon": 69.142858,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 801,
+      "ID": 802,
+      "Lat": 41.218119,
+      "Lon": 69.357602,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 802,
+      "ID": 803,
+      "Lat": 41.229341,
+      "Lon": 69.359422,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 803,
+      "ID": 804,
+      "Lat": 41.276825,
+      "Lon": 69.363419,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 804,
+      "ID": 805,
+      "Lat": 41.248121,
+      "Lon": 69.192324,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 805,
+      "ID": 806,
+      "Lat": 41.23637,
+      "Lon": 69.321878,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 806,
+      "ID": 807,
+      "Lat": 41.226015,
+      "Lon": 69.358867,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 807,
+      "ID": 808,
+      "Lat": 41.309611,
+      "Lon": 69.335243,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 808,
+      "ID": 809,
+      "Lat": 41.203594,
+      "Lon": 69.202,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 809,
+      "ID": 810,
+      "Lat": 41.180855,
+      "Lon": 69.205849,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 810,
+      "ID": 811,
+      "Lat": 41.17131,
+      "Lon": 69.052078,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 811,
+      "ID": 812,
+      "Lat": 41.238947,
+      "Lon": 69.354539,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 812,
+      "ID": 813,
+      "Lat": 41.176501,
+      "Lon": 69.124957,
+      "bs_id": 24
+    },
+    {
+      "subscriber_index": 813,
+      "ID": 814,
+      "Lat": 41.261397,
+      "Lon": 69.254976,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 814,
+      "ID": 815,
+      "Lat": 41.155252,
+      "Lon": 69.191566,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 815,
+      "ID": 816,
+      "Lat": 41.269385,
+      "Lon": 69.363775,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 816,
+      "ID": 817,
+      "Lat": 41.152468,
+      "Lon": 69.215524,
+      "bs_id": 39
+    },
+    {
+      "subscriber_index": 817,
+      "ID": 818,
+      "Lat": 41.294969,
+      "Lon": 69.273815,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 818,
+      "ID": 819,
+      "Lat": 41.264392,
+      "Lon": 69.117833,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 819,
+      "ID": 820,
+      "Lat": 41.1839,
+      "Lon": 69.157568,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 820,
+      "ID": 821,
+      "Lat": 41.248625,
+      "Lon": 69.075307,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 821,
+      "ID": 822,
+      "Lat": 41.205192,
+      "Lon": 69.169901,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 822,
+      "ID": 823,
+      "Lat": 41.222225,
+      "Lon": 69.427689,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 823,
+      "ID": 824,
+      "Lat": 41.24916,
+      "Lon": 69.296668,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 824,
+      "ID": 825,
+      "Lat": 41.171394,
+      "Lon": 69.171863,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 825,
+      "ID": 826,
+      "Lat": 41.216443,
+      "Lon": 69.298077,
+      "bs_id": 28
+    },
+    {
+      "subscriber_index": 826,
+      "ID": 827,
+      "Lat": 41.238045,
+      "Lon": 69.222246,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 827,
+      "ID": 828,
+      "Lat": 41.344845,
+      "Lon": 69.10445,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 828,
+      "ID": 829,
+      "Lat": 41.270642,
+      "Lon": 69.328117,
+      "bs_id": 29
+    },
+    {
+      "subscriber_index": 829,
+      "ID": 830,
+      "Lat": 41.212837,
+      "Lon": 69.43583,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 830,
+      "ID": 831,
+      "Lat": 41.20829,
+      "Lon": 69.327983,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 831,
+      "ID": 832,
+      "Lat": 41.343553,
+      "Lon": 69.36279,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 832,
+      "ID": 833,
+      "Lat": 41.225211,
+      "Lon": 69.376598,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 833,
+      "ID": 834,
+      "Lat": 41.223003,
+      "Lon": 69.422827,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 834,
+      "ID": 835,
+      "Lat": 41.268445,
+      "Lon": 69.268252,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 835,
+      "ID": 836,
+      "Lat": 41.155383,
+      "Lon": 69.340885,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 836,
+      "ID": 837,
+      "Lat": 41.237691,
+      "Lon": 69.166532,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 837,
+      "ID": 838,
+      "Lat": 41.313793,
+      "Lon": 69.368263,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 838,
+      "ID": 839,
+      "Lat": 41.284596,
+      "Lon": 69.105672,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 839,
+      "ID": 840,
+      "Lat": 41.198404,
+      "Lon": 69.313465,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 840,
+      "ID": 841,
+      "Lat": 41.307815,
+      "Lon": 69.079586,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 841,
+      "ID": 842,
+      "Lat": 41.245847,
+      "Lon": 69.210322,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 842,
+      "ID": 843,
+      "Lat": 41.334699,
+      "Lon": 69.397853,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 843,
+      "ID": 844,
+      "Lat": 41.258729,
+      "Lon": 69.366288,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 844,
+      "ID": 845,
+      "Lat": 41.290327,
+      "Lon": 69.374919,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 845,
+      "ID": 846,
+      "Lat": 41.277636,
+      "Lon": 69.083993,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 846,
+      "ID": 847,
+      "Lat": 41.28152,
+      "Lon": 69.192004,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 847,
+      "ID": 848,
+      "Lat": 41.272536,
+      "Lon": 69.275288,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 848,
+      "ID": 849,
+      "Lat": 41.285494,
+      "Lon": 69.209847,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 849,
+      "ID": 850,
+      "Lat": 41.343143,
+      "Lon": 69.222182,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 850,
+      "ID": 851,
+      "Lat": 41.169721,
+      "Lon": 69.1388,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 851,
+      "ID": 852,
+      "Lat": 41.261599,
+      "Lon": 69.325066,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 852,
+      "ID": 853,
+      "Lat": 41.239156,
+      "Lon": 69.206454,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 853,
+      "ID": 854,
+      "Lat": 41.288087,
+      "Lon": 69.110298,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 854,
+      "ID": 855,
+      "Lat": 41.246554,
+      "Lon": 69.168173,
+      "bs_id": 33
+    },
+    {
+      "subscriber_index": 855,
+      "ID": 856,
+      "Lat": 41.173214,
+      "Lon": 69.42627,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 856,
+      "ID": 857,
+      "Lat": 41.219666,
+      "Lon": 69.187227,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 857,
+      "ID": 858,
+      "Lat": 41.254223,
+      "Lon": 69.18932,
+      "bs_id": 33
+    },
+    {
+      "subscriber_index": 858,
+      "ID": 859,
+      "Lat": 41.237633,
+      "Lon": 69.328705,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 859,
+      "ID": 860,
+      "Lat": 41.163435,
+      "Lon": 69.067873,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 860,
+      "ID": 861,
+      "Lat": 41.154517,
+      "Lon": 69.187231,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 861,
+      "ID": 862,
+      "Lat": 41.285428,
+      "Lon": 69.115742,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 862,
+      "ID": 863,
+      "Lat": 41.253199,
+      "Lon": 69.270764,
+      "bs_id": 26
+    },
+    {
+      "subscriber_index": 863,
+      "ID": 864,
+      "Lat": 41.26197,
+      "Lon": 69.433385,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 864,
+      "ID": 865,
+      "Lat": 41.309551,
+      "Lon": 69.301904,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 865,
+      "ID": 866,
+      "Lat": 41.278096,
+      "Lon": 69.222854,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 866,
+      "ID": 867,
+      "Lat": 41.297478,
+      "Lon": 69.403239,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 867,
+      "ID": 868,
+      "Lat": 41.268441,
+      "Lon": 69.205534,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 868,
+      "ID": 869,
+      "Lat": 41.191157,
+      "Lon": 69.35093,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 869,
+      "ID": 870,
+      "Lat": 41.26547,
+      "Lon": 69.369801,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 870,
+      "ID": 871,
+      "Lat": 41.187392,
+      "Lon": 69.180394,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 871,
+      "ID": 872,
+      "Lat": 41.172791,
+      "Lon": 69.318281,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 872,
+      "ID": 873,
+      "Lat": 41.255543,
+      "Lon": 69.305643,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 873,
+      "ID": 874,
+      "Lat": 41.227728,
+      "Lon": 69.207018,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 874,
+      "ID": 875,
+      "Lat": 41.219585,
+      "Lon": 69.388207,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 875,
+      "ID": 876,
+      "Lat": 41.184506,
+      "Lon": 69.319436,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 876,
+      "ID": 877,
+      "Lat": 41.333737,
+      "Lon": 69.286067,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 877,
+      "ID": 878,
+      "Lat": 41.212637,
+      "Lon": 69.145429,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 878,
+      "ID": 879,
+      "Lat": 41.186609,
+      "Lon": 69.327375,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 879,
+      "ID": 880,
+      "Lat": 41.227693,
+      "Lon": 69.28857,
+      "bs_id": 28
+    },
+    {
+      "subscriber_index": 880,
+      "ID": 881,
+      "Lat": 41.226742,
+      "Lon": 69.124301,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 881,
+      "ID": 882,
+      "Lat": 41.257476,
+      "Lon": 69.417664,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 882,
+      "ID": 883,
+      "Lat": 41.260983,
+      "Lon": 69.245857,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 883,
+      "ID": 884,
+      "Lat": 41.18742,
+      "Lon": 69.386794,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 884,
+      "ID": 885,
+      "Lat": 41.160722,
+      "Lon": 69.193616,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 885,
+      "ID": 886,
+      "Lat": 41.246922,
+      "Lon": 69.128051,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 886,
+      "ID": 887,
+      "Lat": 41.342766,
+      "Lon": 69.252175,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 887,
+      "ID": 888,
+      "Lat": 41.231827,
+      "Lon": 69.24669,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 888,
+      "ID": 889,
+      "Lat": 41.24774,
+      "Lon": 69.083068,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 889,
+      "ID": 890,
+      "Lat": 41.309176,
+      "Lon": 69.138212,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 890,
+      "ID": 891,
+      "Lat": 41.204971,
+      "Lon": 69.265043,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 891,
+      "ID": 892,
+      "Lat": 41.306148,
+      "Lon": 69.27626,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 892,
+      "ID": 893,
+      "Lat": 41.259945,
+      "Lon": 69.095284,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 893,
+      "ID": 894,
+      "Lat": 41.203578,
+      "Lon": 69.267242,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 894,
+      "ID": 895,
+      "Lat": 41.258409,
+      "Lon": 69.352714,
+      "bs_id": 29
+    },
+    {
+      "subscriber_index": 895,
+      "ID": 896,
+      "Lat": 41.259271,
+      "Lon": 69.44591,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 896,
+      "ID": 897,
+      "Lat": 41.297198,
+      "Lon": 69.311469,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 897,
+      "ID": 898,
+      "Lat": 41.209542,
+      "Lon": 69.449725,
+      "bs_id": 30
+    },
+    {
+      "subscriber_index": 898,
+      "ID": 899,
+      "Lat": 41.202563,
+      "Lon": 69.39488,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 899,
+      "ID": 900,
+      "Lat": 41.237814,
+      "Lon": 69.447583,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 900,
+      "ID": 901,
+      "Lat": 41.191976,
+      "Lon": 69.345045,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 901,
+      "ID": 902,
+      "Lat": 41.32221,
+      "Lon": 69.294105,
+      "bs_id": 13
+    },
+    {
+      "subscriber_index": 902,
+      "ID": 903,
+      "Lat": 41.183196,
+      "Lon": 69.105694,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 903,
+      "ID": 904,
+      "Lat": 41.312706,
+      "Lon": 69.372176,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 904,
+      "ID": 905,
+      "Lat": 41.220163,
+      "Lon": 69.162434,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 905,
+      "ID": 906,
+      "Lat": 41.183675,
+      "Lon": 69.4416,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 906,
+      "ID": 907,
+      "Lat": 41.207867,
+      "Lon": 69.156937,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 907,
+      "ID": 908,
+      "Lat": 41.347098,
+      "Lon": 69.32172,
+      "bs_id": 27
+    },
+    {
+      "subscriber_index": 908,
+      "ID": 909,
+      "Lat": 41.177118,
+      "Lon": 69.350038,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 909,
+      "ID": 910,
+      "Lat": 41.333754,
+      "Lon": 69.446994,
+      "bs_id": 18
+    },
+    {
+      "subscriber_index": 910,
+      "ID": 911,
+      "Lat": 41.175378,
+      "Lon": 69.396432,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 911,
+      "ID": 912,
+      "Lat": 41.179249,
+      "Lon": 69.178839,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 912,
+      "ID": 913,
+      "Lat": 41.302295,
+      "Lon": 69.320494,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 913,
+      "ID": 914,
+      "Lat": 41.178434,
+      "Lon": 69.302961,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 914,
+      "ID": 915,
+      "Lat": 41.232845,
+      "Lon": 69.230797,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 915,
+      "ID": 916,
+      "Lat": 41.30892,
+      "Lon": 69.357554,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 916,
+      "ID": 917,
+      "Lat": 41.253123,
+      "Lon": 69.16129,
+      "bs_id": 40
+    },
+    {
+      "subscriber_index": 917,
+      "ID": 918,
+      "Lat": 41.240939,
+      "Lon": 69.245218,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 918,
+      "ID": 919,
+      "Lat": 41.150495,
+      "Lon": 69.359654,
+      "bs_id": 32
+    },
+    {
+      "subscriber_index": 919,
+      "ID": 920,
+      "Lat": 41.296186,
+      "Lon": 69.23338,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 920,
+      "ID": 921,
+      "Lat": 41.289458,
+      "Lon": 69.390042,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 921,
+      "ID": 922,
+      "Lat": 41.229543,
+      "Lon": 69.437251,
+      "bs_id": 23
+    },
+    {
+      "subscriber_index": 922,
+      "ID": 923,
+      "Lat": 41.248943,
+      "Lon": 69.179146,
+      "bs_id": 33
+    },
+    {
+      "subscriber_index": 923,
+      "ID": 924,
+      "Lat": 41.217551,
+      "Lon": 69.281173,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 924,
+      "ID": 925,
+      "Lat": 41.320485,
+      "Lon": 69.365321,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 925,
+      "ID": 926,
+      "Lat": 41.159189,
+      "Lon": 69.300472,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 926,
+      "ID": 927,
+      "Lat": 41.153256,
+      "Lon": 69.421773,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 927,
+      "ID": 928,
+      "Lat": 41.238257,
+      "Lon": 69.05027,
+      "bs_id": 25
+    },
+    {
+      "subscriber_index": 928,
+      "ID": 929,
+      "Lat": 41.190464,
+      "Lon": 69.325437,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 929,
+      "ID": 930,
+      "Lat": 41.32643,
+      "Lon": 69.170746,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 930,
+      "ID": 931,
+      "Lat": 41.168668,
+      "Lon": 69.194174,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 931,
+      "ID": 932,
+      "Lat": 41.224369,
+      "Lon": 69.41152,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 932,
+      "ID": 933,
+      "Lat": 41.160357,
+      "Lon": 69.300242,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 933,
+      "ID": 934,
+      "Lat": 41.235846,
+      "Lon": 69.08648,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 934,
+      "ID": 935,
+      "Lat": 41.150217,
+      "Lon": 69.240723,
+      "bs_id": 34
+    },
+    {
+      "subscriber_index": 935,
+      "ID": 936,
+      "Lat": 41.268736,
+      "Lon": 69.257778,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 936,
+      "ID": 937,
+      "Lat": 41.151857,
+      "Lon": 69.328239,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 937,
+      "ID": 938,
+      "Lat": 41.347631,
+      "Lon": 69.218926,
+      "bs_id": 21
+    },
+    {
+      "subscriber_index": 938,
+      "ID": 939,
+      "Lat": 41.24554,
+      "Lon": 69.141579,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 939,
+      "ID": 940,
+      "Lat": 41.296153,
+      "Lon": 69.090971,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 940,
+      "ID": 941,
+      "Lat": 41.223512,
+      "Lon": 69.169702,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 941,
+      "ID": 942,
+      "Lat": 41.304692,
+      "Lon": 69.351263,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 942,
+      "ID": 943,
+      "Lat": 41.278315,
+      "Lon": 69.320855,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 943,
+      "ID": 944,
+      "Lat": 41.256102,
+      "Lon": 69.05339,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 944,
+      "ID": 945,
+      "Lat": 41.182823,
+      "Lon": 69.190475,
+      "bs_id": 7
+    },
+    {
+      "subscriber_index": 945,
+      "ID": 946,
+      "Lat": 41.275616,
+      "Lon": 69.11055,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 946,
+      "ID": 947,
+      "Lat": 41.273215,
+      "Lon": 69.226954,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 947,
+      "ID": 948,
+      "Lat": 41.167338,
+      "Lon": 69.090186,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 948,
+      "ID": 949,
+      "Lat": 41.267915,
+      "Lon": 69.203613,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 949,
+      "ID": 950,
+      "Lat": 41.212901,
+      "Lon": 69.105932,
+      "bs_id": 16
+    },
+    {
+      "subscriber_index": 950,
+      "ID": 951,
+      "Lat": 41.278924,
+      "Lon": 69.149267,
+      "bs_id": 19
+    },
+    {
+      "subscriber_index": 951,
+      "ID": 952,
+      "Lat": 41.270002,
+      "Lon": 69.293037,
+      "bs_id": 26
+    },
+    {
+      "subscriber_index": 952,
+      "ID": 953,
+      "Lat": 41.319578,
+      "Lon": 69.313362,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 953,
+      "ID": 954,
+      "Lat": 41.191089,
+      "Lon": 69.292771,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 954,
+      "ID": 955,
+      "Lat": 41.299569,
+      "Lon": 69.168217,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 955,
+      "ID": 956,
+      "Lat": 41.30676,
+      "Lon": 69.367511,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 956,
+      "ID": 957,
+      "Lat": 41.248978,
+      "Lon": 69.095097,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 957,
+      "ID": 958,
+      "Lat": 41.277616,
+      "Lon": 69.078405,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 958,
+      "ID": 959,
+      "Lat": 41.347377,
+      "Lon": 69.42357,
+      "bs_id": 31
+    },
+    {
+      "subscriber_index": 959,
+      "ID": 960,
+      "Lat": 41.227368,
+      "Lon": 69.385589,
+      "bs_id": 4
+    },
+    {
+      "subscriber_index": 960,
+      "ID": 961,
+      "Lat": 41.223082,
+      "Lon": 69.323177,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 961,
+      "ID": 962,
+      "Lat": 41.340891,
+      "Lon": 69.358147,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 962,
+      "ID": 963,
+      "Lat": 41.267473,
+      "Lon": 69.055517,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 963,
+      "ID": 964,
+      "Lat": 41.157965,
+      "Lon": 69.074188,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 964,
+      "ID": 965,
+      "Lat": 41.251322,
+      "Lon": 69.301428,
+      "bs_id": 2
+    },
+    {
+      "subscriber_index": 965,
+      "ID": 966,
+      "Lat": 41.303422,
+      "Lon": 69.21943,
+      "bs_id": 45
+    },
+    {
+      "subscriber_index": 966,
+      "ID": 967,
+      "Lat": 41.166486,
+      "Lon": 69.264626,
+      "bs_id": 20
+    },
+    {
+      "subscriber_index": 967,
+      "ID": 968,
+      "Lat": 41.180536,
+      "Lon": 69.083439,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 968,
+      "ID": 969,
+      "Lat": 41.252261,
+      "Lon": 69.131279,
+      "bs_id": 40
+    },
+    {
+      "subscriber_index": 969,
+      "ID": 970,
+      "Lat": 41.257278,
+      "Lon": 69.206293,
+      "bs_id": 9
+    },
+    {
+      "subscriber_index": 970,
+      "ID": 971,
+      "Lat": 41.302645,
+      "Lon": 69.309936,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 971,
+      "ID": 972,
+      "Lat": 41.163223,
+      "Lon": 69.32947,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 972,
+      "ID": 973,
+      "Lat": 41.161581,
+      "Lon": 69.084485,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 973,
+      "ID": 974,
+      "Lat": 41.173197,
+      "Lon": 69.294919,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 974,
+      "ID": 975,
+      "Lat": 41.211858,
+      "Lon": 69.346677,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 975,
+      "ID": 976,
+      "Lat": 41.173889,
+      "Lon": 69.33316,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 976,
+      "ID": 977,
+      "Lat": 41.182767,
+      "Lon": 69.431206,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 977,
+      "ID": 978,
+      "Lat": 41.253445,
+      "Lon": 69.379003,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 978,
+      "ID": 979,
+      "Lat": 41.183393,
+      "Lon": 69.100772,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 979,
+      "ID": 980,
+      "Lat": 41.296587,
+      "Lon": 69.097223,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 980,
+      "ID": 981,
+      "Lat": 41.217002,
+      "Lon": 69.22173,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 981,
+      "ID": 982,
+      "Lat": 41.162774,
+      "Lon": 69.334929,
+      "bs_id": 3
+    },
+    {
+      "subscriber_index": 982,
+      "ID": 983,
+      "Lat": 41.275507,
+      "Lon": 69.248459,
+      "bs_id": 1
+    },
+    {
+      "subscriber_index": 983,
+      "ID": 984,
+      "Lat": 41.222025,
+      "Lon": 69.249844,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 984,
+      "ID": 985,
+      "Lat": 41.183376,
+      "Lon": 69.112924,
+      "bs_id": 5
+    },
+    {
+      "subscriber_index": 985,
+      "ID": 986,
+      "Lat": 41.328854,
+      "Lon": 69.319648,
+      "bs_id": 17
+    },
+    {
+      "subscriber_index": 986,
+      "ID": 987,
+      "Lat": 41.195681,
+      "Lon": 69.25353,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 987,
+      "ID": 988,
+      "Lat": 41.321738,
+      "Lon": 69.054915,
+      "bs_id": 36
+    },
+    {
+      "subscriber_index": 988,
+      "ID": 989,
+      "Lat": 41.244353,
+      "Lon": 69.203192,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 989,
+      "ID": 990,
+      "Lat": 41.185792,
+      "Lon": 69.434137,
+      "bs_id": 11
+    },
+    {
+      "subscriber_index": 990,
+      "ID": 991,
+      "Lat": 41.260573,
+      "Lon": 69.415579,
+      "bs_id": 8
+    },
+    {
+      "subscriber_index": 991,
+      "ID": 992,
+      "Lat": 41.233874,
+      "Lon": 69.178721,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 992,
+      "ID": 993,
+      "Lat": 41.333171,
+      "Lon": 69.177974,
+      "bs_id": 15
+    },
+    {
+      "subscriber_index": 993,
+      "ID": 994,
+      "Lat": 41.264307,
+      "Lon": 69.09776,
+      "bs_id": 10
+    },
+    {
+      "subscriber_index": 994,
+      "ID": 995,
+      "Lat": 41.185869,
+      "Lon": 69.371735,
+      "bs_id": 22
+    },
+    {
+      "subscriber_index": 995,
+      "ID": 996,
+      "Lat": 41.340816,
+      "Lon": 69.077571,
+      "bs_id": 12
+    },
+    {
+      "subscriber_index": 996,
+      "ID": 997,
+      "Lat": 41.323206,
+      "Lon": 69.359411,
+      "bs_id": 0
+    },
+    {
+      "subscriber_index": 997,
+      "ID": 998,
+      "Lat": 41.21546,
+      "Lon": 69.271237,
+      "bs_id": 14
+    },
+    {
+      "subscriber_index": 998,
+      "ID": 999,
+      "Lat": 41.223784,
+      "Lon": 69.166638,
+      "bs_id": 6
+    },
+    {
+      "subscriber_index": 999,
+      "ID": 1000,
+      "Lat": 41.297915,
+      "Lon": 69.147034,
+      "bs_id": 19
+    }
+  ]
+}
